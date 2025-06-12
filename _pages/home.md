@@ -14,7 +14,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#208687; /* LUCK绿 */
+        color:#ab8654; /* 若你黄 */
         font-weight: 700;  /* 粗体 */
     }
 </style>
@@ -31,8 +31,8 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是<sp
 - M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
 - B.A. in Journalism, Nanjing University, 2019-2023
 
-* Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
-* Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
+- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
+- Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
 
 ## News
 * [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
