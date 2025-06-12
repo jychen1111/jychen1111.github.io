@@ -14,7 +14,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#cc7eb8; /* GH紫 */
+        color:#28a8a9; /* LUCK绿 */
         font-weight: 700;  /* 粗体 */
     }
 </style>
