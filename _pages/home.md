@@ -11,7 +11,7 @@ I'm a second-year master's student at Shanghai Jiao Tong University School of Me
 
 I mainly focus on **human-machine communication** and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
-Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。<span class="text-red">欢迎联系我！</span>
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
