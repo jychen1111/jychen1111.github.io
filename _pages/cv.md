@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+
 Working paper
 ======
 1. ***Chen, J***., Zeng, W. & Mou, Y. (Under review). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Health Persuasion.
