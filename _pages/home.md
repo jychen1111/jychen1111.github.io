@@ -30,17 +30,15 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[�
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
 - B.A. in Journalism, Nanjing University, 2019-2023
-
 ***
-
-- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
-- Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
+  - Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
+  - Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
 
 ## News
 * [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
 * [2025-01-16] I have 4 papers accepted by the 75th ICA, in the Health, CAT, Jouranlism Division and Human-machine Interest Group. See you in Denver.
 * [2024-05-20]  I had a great week with Henry Jenkins on the Fan Culture Studies Tour in Shanghai!
-* [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and **won the best paper!** 
+* [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and <span class="my-name">won the best paper!</span> 
 
 ## Research Interest
 My research interests are broad, focusing primarily on <span class="my-name">human-machine communication</span> and <span class="my-name">socio-political factors in SHER issues</span>. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
