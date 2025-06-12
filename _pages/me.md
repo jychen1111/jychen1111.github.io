@@ -18,6 +18,7 @@ My Research Interests
 ------
 - The COVID-19 pandemic and the lockdown policy coincided with a period of significant personal growth and development for me. This period also saw me becoming increasingly exposed to a vast amount of health, science, and policy-related information shared on social media. I observed that public attitudes toward this information remain highly polarized even in a one-party society like China. Despite the current lack of academic and social interest in COVID-19 and relevant policies in China, I remain interested in the public's understanding of science. I also focus on socio-political and technological factors in health, science and risk issues.
 - As a little “geek”, I am deeply impressed by the impact of AI technology on established societal norms. As an “AI immigrant”, I am witnessing its gradual integration into society. will result in a significant global social revolution. I aim to explore the socio-psychological impacts of human-AI communication, including intimacy, trust, and credibility at the individual level, and digital inequality and social polarization at the societal level.
+
 ***
 
 Now I am continuing my studies and research in journalism and communication at Shanghai Jiao Tong University. I am preparing to apply for the PhD program in Communication in 2026.
