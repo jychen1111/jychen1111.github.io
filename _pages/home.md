@@ -1,10 +1,10 @@
 ---
-permalink: /
+permalink: /home
 title: "Welcome"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /home/
+  - /home.html
 ---
 
 I'm a second-year master's student at Shanghai Jiao Tong University School of Media and Communication (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. You can find my CV [here](../assets/CV_JunyiChen250519).
