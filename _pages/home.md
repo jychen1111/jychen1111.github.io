@@ -6,10 +6,24 @@ redirect_from:
   - /home/
   - /home.html
 ---
+<style>
+    /* 强制拓宽本页面的主内容区域 */
+    .page__inner-wrap {
+        max-width: 1600px !important;
+    }
+
+    /* 保留：为你名字创建的专属样式 */
+    .my-name {
+        color:#cc7eb8; /* GH紫 */
+        font-weight: 700;  /* 粗体 */
+    }
+</style>
+
+
 
 I'm a second-year master's student at Shanghai Jiao Tong University School of Media and Communication (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. 
 
-I mainly focus on **human-machine communication** and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
+I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
 Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
 
