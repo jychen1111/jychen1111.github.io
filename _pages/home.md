@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-I'm a second-year master's student at Shanghai Jiao Tong University School of Media and Communication (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. 
+I'm a second-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. 
 
 I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
