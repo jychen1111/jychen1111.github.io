@@ -3,7 +3,6 @@ permalink: /me
 author_profile: true
 redirect_from: 
   - /me/
-  - /me.html
 ---
 
 I caught fire exploring. 
