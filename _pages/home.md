@@ -43,7 +43,7 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是牟
 * [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and <span class="my-name">won the best paper!</span> 
 
 ## Research Interest
-My research interests are broad, focusing primarily on <span class="my-name">human-machine communication</span> and <span class="my-name">socio-political factors in SHER issues</span>. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
+My research interests are broad, focusing primarily on human-machine communication and socio-political factors in SHER issues. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
 
 ### Topics
 Specifically, the research topics I am interested in include:
