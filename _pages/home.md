@@ -14,7 +14,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#ab8654; /* 若你黄 */
+        color:#eabe7d; /* 若你黄 */
         font-weight: 700;  /* 粗体 */
     }
 </style>
