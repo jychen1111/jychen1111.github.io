@@ -6,6 +6,10 @@
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
+<!-- 设置 favicon 图标 -->
+<link rel="icon" href="{{ base_path }}/image/favicon_.dog.png" type="image/png">
+<link rel="apple-touch-icon" href="{{ base_path }}/image/favicon_.dog.png">
+
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
