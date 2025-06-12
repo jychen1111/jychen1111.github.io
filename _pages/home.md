@@ -45,7 +45,7 @@ My research interests are broad, focusing primarily on <span class="my-name">hum
 
 ### Topics
 Specifically, the research topics I am interested in include:
-1. Human-computer interaction
-2. AIGC and effects
-3. Socio-political factors in health, scientific, environmental and risk issues
-4. Public opinion
+1. AIGC and effects
+2. Belief in conspiracy theories
+4. Information strategy
+5. Public opinion
