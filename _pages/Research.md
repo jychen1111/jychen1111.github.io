@@ -16,7 +16,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#6984bd; /* depart蓝 */
+        color:#5f9b00; /* depart蓝 */
         font-weight: 700;  /* 粗体 */
         font-style: italic;
     }
