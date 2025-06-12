@@ -14,18 +14,18 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#28a8a9; /* LUCK绿 */
+        color:#208687; /* LUCK绿 */
         font-weight: 700;  /* 粗体 */
     }
 </style>
 
 
 
-I'm a second-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. 
+I'm a second-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by <span class="my-name">[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)</span>. I’m also a <span class="my-name">[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)</span> member. Tanya is my English name from my favorite Singaporean singer. 
 
-I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
+I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in <span class="my-name">socio-political and technological factors in health, scientific and risk issues</span>. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
-Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+Hi，我是上海交通大学媒体与传播学院的研二学生，导师是<span class="my-name">[牟怡](https://cfmhmc.github.io/yimou.github.io/)</span>教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
@@ -41,7 +41,7 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[�
 * [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and **won the best paper!** 
 
 ## Research Interest
-My research interests are broad, focusing primarily on **human-computer communication** and **socio-political factors in new media**. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
+My research interests are broad, focusing primarily on <span class="my-name">human-computer communication</span> and <span class="my-name">socio-political factors in new media</span>. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
 
 ### Topics
 Specifically, the research topics I am interested in include:
