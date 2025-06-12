@@ -33,8 +33,8 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是牟
  
 ***
 
-- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
-- Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
+- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, Aug 2025 – Jan 2026
+- Certificate of human-machine communication, Social Media Lab, Stanford University, CA, USA, Feb–Jul 2022(online due to the pandemic)
 
 ## News
 * [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
