@@ -19,7 +19,7 @@ Education
 - B.A. in Journalism, Nanjing University, 2019-2023
 
 * Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
-* Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan
+* Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
 
 I grew up with endless tests under the Chinese college entrance exam system, was admitted to Nanjing University (NJU), and enrolled in the [School of Journalism and Communication](https://jc.nju.edu.cn/). For a while, I thought that my life would be spent as a conformist: reading the magnum opus of thinkers like Marx or Heidegger during schooling, actively engaging in various informal relationships, and finally graduating to a little reporter writing news about irrelevance and all the social hoopla all day long. But I kind of just felt meh. I yearned to something between macro-theory and news interviews and yearned to explore the empirical impact of digital media on human society. 
 
