@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /me
 author_profile: true
 redirect_from: 
