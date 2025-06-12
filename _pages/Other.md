@@ -8,11 +8,22 @@ redirect_from:
 
 {% include base_path %}
 
-Working paper
+Teaching Assistance
 ======
-1. ***Chen, J***., Zeng, W. & Mou, Y. (Under review). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Health Persuasion.
-2. ***Chen, J***., Zeng, W. & Mou, Y. (Under review). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.
-3. ***Chen, J***., Dai, F. & Mou, Y. (Under review). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility.
-4. Zeng, W, ***Chen, J***. & Wen, N. (In submission). Mortality or Freedom? Integrating Terror Management Health Model and Psychological Reactance to Promote Successful Aging.
-5. Yan, X. F., ***Chen, J***., Chen, Z. & Wang, C. J. (Under review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being
 
+Shanghai Jiao Tong University 
+------
+JC8209  Human-machine Communication 
+JC8218  Media Sociology 
+JC1363  Introduction to New Media
+
+Nanjing University 
+------
+050301D14  News Sociology 
+00542900   Selected Readings from Classic Works of News Sociology
+
+Media work
+======
+2020 - 2023  NJU Fact-checker (核真录), editor-in-chief, editor, journalist
+2020 - 2022  News Tide (新潮), editor, journalist 
+2021 - 2022  Beijing LGBT Center, new media department, volunteer (online) 
