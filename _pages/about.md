@@ -1,49 +1,52 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+I'm a second-year master's student at Shanghai Jiao Tong University School of Media and Communication (SMC, SJTU), advised by [Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/). I’m also a [Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/) member. Tanya is my English name from my favorite Singaporean singer. 
 
-A data-driven personal website
+I mainly focus on **human-machine communication** and I am interested in **socio-political and technological factors in health, scientific and risk issues**. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
+
+Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+- M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
+- B.A. in Journalism, Nanjing University, 2019-2023
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
+* Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan
 
-Getting started
+I grew up with endless tests under the Chinese college entrance exam system, was admitted to Nanjing University (NJU), and enrolled in the [School of Journalism and Communication](https://jc.nju.edu.cn/). For a while, I thought that my life would be spent as a conformist: reading the magnum opus of thinkers like Marx or Heidegger during schooling, actively engaging in various informal relationships, and finally graduating to a little reporter writing news about irrelevance and all the social hoopla all day long. But I kind of just felt meh. I yearned to something between macro-theory and news interviews and yearned to explore the empirical impact of digital media on human society. 
+
+And that's when it happened; the spark I was missing ignited the instant I first conducted a preliminary survey about the role of digital platforms in the exacerbation of intergroup conflicts. Since then, I can't get enough. I realized that my interests were more in technology frontiers and sought more research opportunities. Fortunately, I successfully applied for an exchange at [Stanford's Social Media Lab](https://sml.stanford.edu/). It's online due to the lockdown policy during COVID-19. Furthermore, I joined the [Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/), led by [ChengJun-Wang](https://chengjunwang.com/), in the School of Journalism and Communication at Nanjing University. I completed my graduation thesis on social acceleration and time use there.
+
+Now I am continuing my studies and research in journalism and communication at Shanghai Jiao Tong University. I am preparing to apply for the PhD program in Communication in 2026.
+
+News
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
+* [2025-01-16] I have 4 papers accepted by the 75th ICA, in the Health, CAT, Jouranlism Division and Human-machine Interest Group. See you in Denver.
+* [2024-05-20]  I had a great week with Henry Jenkins on the Fan Culture Studies Tour in Shanghai!
+* [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and **won the best paper!** 
 
-Site-wide configuration
+Research Interest
+======
+My research interests are broad, focusing primarily on **human-computer communication** and **socio-political factors in new media**. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
+
+Experience
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- The COVID-19 pandemic and the lockdown policy coincided with a period of significant personal growth and development for me. This period also saw me becoming increasingly exposed to a vast amount of health, science, and policy-related information shared on social media. I observed that public attitudes toward this information remain highly polarized even in a one-party society like China. Despite the current lack of academic and social interest in COVID-19 and relevant policies in China, I remain interested in the public's understanding of science. I also focus on socio-political and technological factors in health, science and risk issues.
+- As a little “geek”, I am deeply impressed by the impact of AI technology on established societal norms. As an “AI immigrant”, I am witnessing its gradual integration into society. will result in a significant global social revolution. I aim to explore the socio-psychological impacts of human-AI communication, including intimacy, trust, and credibility at the individual level, and digital inequality and social polarization at the societal level.
 
-Create content & metadata
+Topics
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Specifically, the research topics I am interested in include:
+1. Human-computer interaction
+2. AIGC and effects
+3. Socio-political factors in health, scientific, environmental and risk issues
+4. Public opinion
