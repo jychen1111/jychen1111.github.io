@@ -27,8 +27,8 @@ author:
   pronouns         : "He/Him/His"  
   bio              : "Master’s student"
   location         : "Shanghai"
-  employer         : "Shanghai Jiao Tong University"
-  uri              : "https://jychen1111.github.io/"
+  employer         : #"Shanghai Jiao Tong University"
+  uri              : #"https://jychen1111.github.io/"
   email            : "jy.chen@sjtu.edu.cn" 
 
   # Academic websites
@@ -38,7 +38,7 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0005-3444-1714"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Chen-Junyi-8"
   scopus           : # URL
 
@@ -51,14 +51,14 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : "https://www.instagram.com/premodernrobot?igsh=MWhkcjRmdjB0djJyZQ%3D%3D&utm_source=qr"
+  instagram        : "premodernrobot"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -68,7 +68,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "https://x.com/Tanya_J_CHEN"
+  twitter          : "Tanya_J_CHEN"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
