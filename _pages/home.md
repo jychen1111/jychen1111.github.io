@@ -31,6 +31,8 @@ Hi，我是上海交通大学媒体与传播学院的研二学生，导师是[�
 - M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
 - B.A. in Journalism, Nanjing University, 2019-2023
 
+***
+
 - Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Taiwan, 2025
 - Certificate of human-machine communication, Social Media Lab, Stanford University, 2022 (online due to the pandemic)
 
