@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Junyi | 陈俊沂"
+title                    : "Junyi's homepage"
 title_separator          : "-"
 name                     : &name "Tanya Chen"
 description              : &description "personal description"
