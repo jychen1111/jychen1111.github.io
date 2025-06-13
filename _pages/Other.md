@@ -19,6 +19,10 @@ Teaching Assistance
 - 050301D14  News Sociology
 - 0054 2900  Selected Readings from Classic Works of News Sociology
 
+  <img src="{{ '/images/classic1.jpg' | relative_url }}" alt="Classic Reading 1" style="max-width: 45%; display: inline-block; margin-right: 2%;">
+  <img src="{{ '/images/classic2.jpg' | relative_url }}" alt="Classic Reading 2" style="max-width: 45%; display: inline-block;">
+
+
 Media work
 ======
 - 2020 - 2023  NJU Fact-checker (核真录), editor-in-chief, editor, journalist
