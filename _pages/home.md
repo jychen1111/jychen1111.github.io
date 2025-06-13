@@ -28,13 +28,13 @@ I mainly focus on <span class="my-name">human-machine communication</span> and I
 Hi，我是上海交通大学媒体与传播学院的研二学生，导师是牟怡教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
 
 ## Education
-- M.A. in Communication, Shanghai Jiao Tong University, 2023-2026
-- B.A. in Journalism, Nanjing University, 2019-2023
+- M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
+- B.A. in Journalism, Nanjing University, Nanjing, China, 2019-2023
  
 ***
 
-- Exchange Student, Institute of Communication Studies, Taiwan National Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
-- Certificate of human-machine communication, Social Media Lab, Stanford University, CA, USA, Feb–Jul 2022 (online due to the pandemic)
+- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
+- Certificate of human-machine communication, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## News
 * [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
