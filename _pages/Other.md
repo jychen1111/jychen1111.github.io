@@ -19,9 +19,10 @@ Teaching Assistance
 - 050301D14  News Sociology
 - 0054 2900  Selected Readings from Classic Works of News Sociology
 
-  <img src="{{ '/images/classic1.png' | relative_url }}" alt="Classic Reading 1" style="max-width: 45%; display: inline-block; margin-right: 2%;">
-  <img src="{{ '/images/classic2.png' | relative_url }}" alt="Classic Reading 2" style="max-width: 45%; display: inline-block;">
-
+<div style="display: flex; gap: 10px; flex-wrap: wrap;">
+  <img src="{{ '/images/classic1.png' | relative_url }}" alt="Classic Reading 1" style="max-width: 48%;">
+  <img src="{{ '/images/classic2.png' | relative_url }}" alt="Classic Reading 2" style="max-width: 48%;">
+</div>
 
 Media work
 ======
