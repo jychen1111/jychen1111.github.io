@@ -15,6 +15,7 @@ Teaching Assistance
 - JC8209  Human-machine Communication
 - JC8218  Media Sociology
 - JC1363  Introduction to New Media
+---
 ### Nanjing University 
 - 050301D14  News Sociology
 - 0054 2900  Selected Readings from Classic Works of News Sociology
