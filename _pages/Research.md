@@ -26,7 +26,7 @@ redirect_from:
 Working in progress
 ======
 1. ***Chen, J.***, Zeng, W & Mou, Y (Revise & Resubmit). When Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.
-2. Zeng, W. & ***Chen, J.*** (Revise & Resubmit). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.
+2. Zeng, W. & ***Chen, J.<sup>*</sup>*** (Revise & Resubmit). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.
 3. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
 4. ***Chen, J.***, Zeng, W & Mou, Y (In Submission). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion. 
 
