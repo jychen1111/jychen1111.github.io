@@ -32,84 +32,35 @@ redirect_from:
   padding: 1rem 1.2rem;
   margin-bottom: 1.2rem;
   transition: transform 0.3s ease;
-  cursor: pointer;
 }
+
 .reference-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
 }
+
 .reference-card p {
   margin: 0;
   font-size: 1rem;
-  line-height: 1.5;
-}
-.reference-details {
-  display: none;
-  margin-top: 0.5rem;
-}
-.reference-details.show {
-  display: block;
-}
-.tag {
-  display: inline-block;
-  background-color: rgba(100, 116, 139, 0.1);
-  color: #334155;
-  font-size: 0.75rem;
-  padding: 4px 8px;
-  border-radius: 9999px;
-  margin-right: 5px;
-  margin-top: 4px;
+  line-height: 1.6;
+  color: #1f2937; /* slate-800 */
 }
 </style>
 
-
-Journal paper
+Peer-reviewed Journal Articles
 ======
+    * indicates corresponding author.
 <div class="reference-card">
-  <p onclick="this.nextElementSibling.classList.toggle('show')">
-    <strong>Chen, J.</strong>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+  <p>
+    <strong><i>Chen, J.</strong><i>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+    Zeng, W. & <strong><i>Chen, J.<sup>*</sup></strong><i> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
   </p>
-  <div class="reference-details">
-    <p>---<p>
-    <p>Against the backdrop of politicizing science and technology, it has nevertheless become a common practice to employ AI tools in political communication. This study delves into the tension between the supposedly high credibility of AI-generated content (AIGC) as its perceived objectivity and the potentially devastating impact of politicized tools. Specifically, we investigate the disparities in the perceived credibility of AIGC, stemming from various source types and nationalities. Using an online experiment conducted in China, we found that Chinese AI sources and human-AI hybrid sources with consistent Chinese national identity were perceived as more credible than their foreign counterparts, whose effects were fully mediated by machine heuristics. In contrast, less credibility was directly attributed to human-AI hybrid sources with inconsistent human-AI nationalities (e.g., a Chinese human using American AI). Furthermore, although foreign sources were generally seen as less credible, the presence of AI in the source moderated this negative effect. These findings indicated users’ perceptions of the political dimensions of AI technology.</p>
-  </div>
 </div>
-
-<div class="reference-card">
-  <p onclick="this.nextElementSibling.classList.toggle('show')">
-    Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
-  </p>
-  <div class="reference-details">
-    <p>---<p> 
-    <p>The fear of death is a fundamental human anxiety. From the perspective of terror management theory (TMT), this study examines the potential of music to alleviate death anxiety. We conducted a 2 (salience: mortality vs. control) × 2 (song type: nostalgic vs. non-nostalgic) × 2 (relationship type: romantic vs. parent-child) between-subjects factorial experiment with 335 middle-aged participants (ages 35–40) who were married, had children, and had living parents. Multiple interaction effects among mortality salience, nostalgia, and relationship type indicated that romantic songs—especially nostalgic romantic songs—were more effective in reducing death anxiety than parent-child relationship songs. The findings highlight the defensive function of romantic relationship songs within the TMT framework, offering new insights for clinical interventions and public mental health practices aimed at managing death anxiety.()
-</p>
-  </div>
-</div>
-
-<script>
-  const input = document.getElementById("searchInput");
-  input.addEventListener("input", function () {
-    const filter = input.value.toLowerCase();
-    const cards = document.querySelectorAll(".reference-card");
-    cards.forEach(card => {
-      const text = card.textContent.toLowerCase();
-      card.style.display = text.includes(filter) ? "block" : "none";
-    });
-  });
-</script>
-
-
-
-
 
 Working in progress
 ======
-1. ***Chen, J.***, Zeng, W & Mou, Y (Revise & Resubmit). When Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.
-2. Zeng, W. & ***Chen, J.<sup>*</sup>*** (Revise & Resubmit). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.
-3. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
-4. ***Chen, J.***, Zeng, W & Mou, Y (In Submission). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion. 
-
----
+1. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+2. ***Chen, J.***, Zeng, W & Mou, Y (In Submission). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
 
 Conference paper
 ======
