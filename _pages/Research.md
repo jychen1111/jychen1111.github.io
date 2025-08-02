@@ -1,4 +1,3 @@
-<img width="432" height="318" alt="image" src="https://github.com/user-attachments/assets/bedf392d-6465-420b-aeba-aaf714a18d7e" />---
 layout: archive
 permalink: /Research/
 author_profile: true
