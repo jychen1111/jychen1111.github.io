@@ -48,19 +48,26 @@ redirect_from:
 </style>
 
 # Peer-reviewed Journal Articles  
-*indicates corresponding author.
 
 <div class="reference-card">
   <p>
-    1.<strong>Chen, J.</strong>, Zeng, W. & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society</i>.
+    2. Zeng, W. & <strong>Chen, J.<sub>*<sub></strong> (2025，forthcoming). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>.(*Corresponding author)
+  </p>
+</div>
+
+<div class="reference-card">
+  <p>
+    2. <strong>Chen, J.</strong>, Zeng, W. & Mou, Y. (2025，forthcoming). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society</i>.
   </p>
 </div>
 
 
+
 # Working in Progress
 
-1. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). <em>Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
-2. ***Chen, J.***, Zeng, W. & Mou, Y. (In Submission). <em>Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.</em>
+1. ***Chen, J.*** & Mou, Y. (Revise & Review). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience.
+2. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+3. ***Chen, J.***, Zeng, W. & Mou, Y. (In Submission).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
 
 
 Conference paper
