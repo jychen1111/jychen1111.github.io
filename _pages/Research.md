@@ -52,13 +52,13 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1.<strong>Chen, J.</strong>, Zeng, W. & Mou, Y. (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+    1.<strong>Chen, J.</strong>, Zeng, W. & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society</i>.
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    2.Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
+    2.Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>.
   </p>
 </div>
 
