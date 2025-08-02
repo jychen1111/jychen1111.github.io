@@ -64,8 +64,8 @@ redirect_from:
 
 # Working in Progress
 
-1. Yan, X. F., <strong>Chen, J.</strong>, Chen, Z. & Wang, C. J. (Under Review). <em>Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
-2. <strong>Chen, J.</strong>, Zeng, W & Mou, Y (In Submission). <em>Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.</em>
+1. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). <em>Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+2. ***Chen, J.***, Zeng, W & Mou, Y (In Submission). <em>Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.</em>
 
 
 Conference paper
