@@ -52,7 +52,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1.<strong>Chen, J.</strong>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+    1.<strong>Chen, J.</strong>, Zeng, W. & Mou, Y. (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
   </p>
 </div>
 
@@ -65,7 +65,7 @@ redirect_from:
 # Working in Progress
 
 1. Yan, X. F., ***Chen, J.***, Chen, Z. & Wang, C. J. (Under Review). <em>Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
-2. ***Chen, J.***, Zeng, W & Mou, Y (In Submission). <em>Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.</em>
+2. ***Chen, J.***, Zeng, W. & Mou, Y. (In Submission). <em>Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.</em>
 
 
 Conference paper
