@@ -49,7 +49,6 @@ redirect_from:
 
 Peer-reviewed Journal Articles
 ======
-    * indicates corresponding author.
 <div class="reference-card">
   <p>
     1. <strong><i>Chen, J.</strong><i>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
