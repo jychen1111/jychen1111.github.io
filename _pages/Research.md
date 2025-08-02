@@ -22,6 +22,89 @@ redirect_from:
     }
 </style>
 
+<style>
+.reference-card {
+  backdrop-filter: blur(8px);
+  background: rgba(255, 255, 255, 0.3);
+  border-radius: 16px;
+  border: 1px solid rgba(255, 255, 255, 0.4);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+  padding: 1rem 1.2rem;
+  margin-bottom: 1.2rem;
+  transition: transform 0.3s ease;
+  cursor: pointer;
+}
+.reference-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+}
+.reference-card p {
+  margin: 0;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+.reference-details {
+  display: none;
+  margin-top: 0.5rem;
+}
+.reference-details.show {
+  display: block;
+}
+.tag {
+  display: inline-block;
+  background-color: rgba(100, 116, 139, 0.1);
+  color: #334155;
+  font-size: 0.75rem;
+  padding: 4px 8px;
+  border-radius: 9999px;
+  margin-right: 5px;
+  margin-top: 4px;
+}
+</style>
+
+<input type="text" id="searchInput" placeholder="🔍 Search by keyword..." style="margin-bottom: 1rem; width: 100%; padding: 0.5rem; border-radius: 10px; border: 1px solid #ccc;">
+
+<div class="reference-card">
+  <p onclick="this.nextElementSibling.classList.toggle('show')">
+    <strong>Chen, J.</strong>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+  </p>
+  <div class="reference-details">
+    <span class="tag">#AI</span>
+    <span class="tag">#Nationalism</span>
+    <span class="tag">#Credibility</span>
+  </div>
+</div>
+
+<div class="reference-card">
+  <p onclick="this.nextElementSibling.classList.toggle('show')">
+    Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
+  </p>
+  <div class="reference-details">
+    <span class="tag">#DeathAnxiety</span>
+    <span class="tag">#Music</span>
+    <span class="tag">#HealthComm</span>
+  </div>
+</div>
+
+<script>
+  const input = document.getElementById("searchInput");
+  input.addEventListener("input", function () {
+    const filter = input.value.toLowerCase();
+    const cards = document.querySelectorAll(".reference-card");
+    cards.forEach(card => {
+      const text = card.textContent.toLowerCase();
+      card.style.display = text.includes(filter) ? "block" : "none";
+    });
+  });
+</script>
+
+
+Journal paper
+======
+1. ***Chen, J.***, Zeng, W & Mou, Y (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. *Technology in Society*.
+2. Zeng, W. & ***Chen, J.<sup>*</sup>*** (2025). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. *Health Communication*.
+
+
 
 Working in progress
 ======
