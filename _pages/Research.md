@@ -1,4 +1,4 @@
----
+<img width="432" height="318" alt="image" src="https://github.com/user-attachments/assets/bedf392d-6465-420b-aeba-aaf714a18d7e" />---
 layout: archive
 permalink: /Research/
 author_profile: true
@@ -62,16 +62,15 @@ redirect_from:
 }
 </style>
 
-<input type="text" id="searchInput" placeholder="🔍 Search by keyword..." style="margin-bottom: 1rem; width: 100%; padding: 0.5rem; border-radius: 10px; border: 1px solid #ccc;">
 
+Journal paper
+======
 <div class="reference-card">
   <p onclick="this.nextElementSibling.classList.toggle('show')">
     <strong>Chen, J.</strong>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
   </p>
   <div class="reference-details">
-    <span class="tag">#AI</span>
-    <span class="tag">#Nationalism</span>
-    <span class="tag">#Credibility</span>
+    <p>Against the backdrop of politicizing science and technology, it has nevertheless become a common practice to employ AI tools in political communication. This study delves into the tension between the supposedly high credibility of AI-generated content (AIGC) as its perceived objectivity and the potentially devastating impact of politicized tools. Specifically, we investigate the disparities in the perceived credibility of AIGC, stemming from various source types and nationalities. Using an online experiment conducted in China, we found that Chinese AI sources and human-AI hybrid sources with consistent Chinese national identity were perceived as more credible than their foreign counterparts, whose effects were fully mediated by machine heuristics. In contrast, less credibility was directly attributed to human-AI hybrid sources with inconsistent human-AI nationalities (e.g., a Chinese human using American AI). Furthermore, although foreign sources were generally seen as less credible, the presence of AI in the source moderated this negative effect. These findings indicated users’ perceptions of the political dimensions of AI technology.</p>
   </div>
 </div>
 
@@ -80,9 +79,8 @@ redirect_from:
     Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
   </p>
   <div class="reference-details">
-    <span class="tag">#DeathAnxiety</span>
-    <span class="tag">#Music</span>
-    <span class="tag">#HealthComm</span>
+     <p>The fear of death is a fundamental human anxiety. From the perspective of terror management theory (TMT), this study examines the potential of music to alleviate death anxiety. We conducted a 2 (salience: mortality vs. control) × 2 (song type: nostalgic vs. non-nostalgic) × 2 (relationship type: romantic vs. parent-child) between-subjects factorial experiment with 335 middle-aged participants (ages 35–40) who were married, had children, and had living parents. Multiple interaction effects among mortality salience, nostalgia, and relationship type indicated that romantic songs—especially nostalgic romantic songs—were more effective in reducing death anxiety than parent-child relationship songs. The findings highlight the defensive function of romantic relationship songs within the TMT framework, offering new insights for clinical interventions and public mental health practices aimed at managing death anxiety.()
+</p>
   </div>
 </div>
 
@@ -99,10 +97,6 @@ redirect_from:
 </script>
 
 
-Journal paper
-======
-1. ***Chen, J.***, Zeng, W & Mou, Y (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. *Technology in Society*.
-2. Zeng, W. & ***Chen, J.<sup>*</sup>*** (2025). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. *Health Communication*.
 
 
 
