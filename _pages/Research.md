@@ -56,11 +56,6 @@ redirect_from:
   </p>
 </div>
 
-<div class="reference-card">
-  <p>
-    2.Zeng, W. & <strong>Chen, J.<sup>*</sup></strong> (2025). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>.
-  </p>
-</div>
 
 # Working in Progress
 
