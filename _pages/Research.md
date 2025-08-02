@@ -52,8 +52,8 @@ Peer-reviewed Journal Articles
     * indicates corresponding author.
 <div class="reference-card">
   <p>
-    <strong><i>Chen, J.</strong><i>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
-    Zeng, W. & <strong><i>Chen, J.<sup>*</sup></strong><i> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
+    1. <strong><i>Chen, J.</strong><i>, Zeng, W & Mou, Y (2025). <em>Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC.</em> <i>Technology in Society</i>.
+    2. Zeng, W. & <strong><i>Chen, J.<sup>*</sup></strong><i> (2025). <em>"Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety.</em> <i>Health Communication</i>.
   </p>
 </div>
 
