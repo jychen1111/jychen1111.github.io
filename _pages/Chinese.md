@@ -3,7 +3,7 @@ layout: archive
 permalink: /Chinese
 author_profile: true
 redirect_from: 
-  - /Chinese/
+  - /Chinese
 ---
 <style>
     /* 强制拓宽本页面的主内容区域 */
