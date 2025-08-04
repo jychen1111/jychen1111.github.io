@@ -1,22 +1,11 @@
 ---
+title: "中文"
 layout: archive
 permalink: /Chinese/
 author_profile: true
-redirect_from: 
+redirect_from:
   - /Chinese
 ---
-<style>
-    /* 强制拓宽本页面的主内容区域 */
-    .page__inner-wrap {
-        max-width: 1600px !important;
-    }
-
-    /* 保留：为你名字创建的专属样式 */
-    .my-name {
-        color:#5f9b00; /* shiwen Blue */
-        font-weight: 700;  /* 粗体 */
-    }
-</style>
 
 {% include base_path %}
 
