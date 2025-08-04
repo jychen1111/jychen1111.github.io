@@ -48,9 +48,8 @@ My research interests are broad, focusing primarily on human-machine communicati
 ### Topics
 Specifically, the research topics I am interested in include:
 1. AIGC and effects
-2. Belief in conspiracy theories
-4. Information strategy
-5. Public opinion
+2. Media psychology in human-machine interaction
+3. Science, technology and socio-politics
 
 ------
 
