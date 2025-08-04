@@ -65,9 +65,11 @@ redirect_from:
 
 # Working in Progress
 
-1. **Chen, J.** & Mou, Y. (Revise & Resubmit). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience.
-2. Yan, X. F., **Chen, J.**, Chen, Z. & Wang, C. J. (Under Review). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
-3. **Chen, J.**, Zeng, W. & Mou, Y. (In Submission).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
+1. **Chen, J.** & Mou, Y. (*Revise & Resubmit*). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience.
+2. Yan, X. F., **Chen, J.**, Chen, Z. & Wang, C. J. (*Under Review*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+3. **Chen, J.**, Zeng, W. & Mou, Y. (*Under Review*).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
+4. **Chen, J.**, Dai, F., & Mou, Y. (*Under Review*). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility.
+
 
 
 Conference paper
