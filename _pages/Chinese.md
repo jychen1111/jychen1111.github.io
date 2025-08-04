@@ -34,7 +34,9 @@ redirect_from:
 2. 科学技术和社会政治；
 3. 人机交互中的心理效应。
 
-为此，我近期进行了有关AIGC国家身份线索（发表于*Technology in Society*）、在线约会中的政治审查（*Revise & Resubmit*）、社会怀旧对衰老焦虑（发表于*Health Communication*）、媒介使用通过社会加速影响幸福感（*Under Review*）等一系列研究。我主要使用实验、计算文本分析等定量方法，辅以话语分析和访谈研究，欢迎与我交流。
+为此，我近期进行了有关AIGC国家身份线索（发表于*Technology in Society*）、在线约会中的政治审查（*Revise & Resubmit*）、社会怀旧对衰老焦虑（发表于*Health Communication*）、媒介使用通过社会加速影响幸福感（*Under Review*）等一系列研究。
+
+我主要使用实验、计算文本分析等定量方法，辅以话语分析和访谈研究，欢迎与我交流。
 
 
 
