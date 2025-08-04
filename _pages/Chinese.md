@@ -1,12 +1,10 @@
 ---
 layout: archive
-permalink: /me
+permalink: /Chinese
 author_profile: true
 redirect_from: 
-  - /me/
+  - /Chinese/
 ---
-{% include base_path %}
-
 <style>
     /* 强制拓宽本页面的主内容区域 */
     .page__inner-wrap {
@@ -20,9 +18,12 @@ redirect_from:
     }
 </style>
 
-Hi，我是上海交通大学媒体与传播学院的研二学生，导师是**牟怡教授**(https://cfmhmc.github.io/yimou.github.io/)教授。我同时是**未来媒体与人机传播实验室**的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+{% include base_path %}
 
-在加入上海交通大学之前，我在南京大学新闻传播学院取得了学士学位，导师是**王成军教授**(https://chengjun.github.io/)。
+
+Hi，我是上海交通大学媒体与传播学院的研二学生，导师是**牟怡(https://cfmhmc.github.io/yimou.github.io/)教授**。我同时是**未来媒体与人机传播实验室**的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+
+在加入上海交通大学之前，我在南京大学新闻传播学院取得了学士学位，导师是**王成军教授(https://chengjun.github.io/)**。
 
 近期，我的研究兴趣主要聚焦在以下议题：
 1. AI生成内容及其传播效果
