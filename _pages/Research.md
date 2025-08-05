@@ -72,8 +72,9 @@ redirect_from:
 
 ***
 
-Conference paper
-======
+# Conference paper
+
+<div style="text-align: justify;">
 1. **Chen, J.** (2025, August). Algorithmic Dating while Artificially Vet Political Profiles? Moderation Effects of Dating Motivations Types. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
 2. **Chen, J.** (2025, August). COVID-19 or Pandemic? How Scientific and Political Discourse in Chinese National Media Constructs Memory of The Influenza Epidemic (2019-2023). *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
 3. Zeng, W., & **Chen, J.** (2025, August). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
@@ -88,3 +89,4 @@ Conference paper
 12. **Chen, J.**, & Chen, Y. (2024, July). Embedded Empowerment: How China's Sexual Minorities Use Online Participatory Media to Struggle for Visibility. *Paper presented at the 26th Annual Conference of International Association for Media and Communication Research (IAMCR), Christchurch*, New Zealand.
 13. Dai, F., & **Chen, J.** (2024, June). Fact-checking is fact-checking? A comparative analysis of four Chinese fact-checking organizations. *Paper presented at the 74th Annual International Communication Association Conference (ICA)*, Gold Coast, Australia.
 14. **Chen, J.**, Lin, L., & Deng, Y. (2022, May). How to investigate the truth in Chinese online space: a case from the practice by fact-checkers in Nanjing University. *Paper presented at the 19th Annual Chinese Internet Research Conference (CIRC)*, Hong Kong (online due to the pandemic).
+</div>
