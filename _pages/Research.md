@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /Research/
 author_profile: true
 redirect_from:
