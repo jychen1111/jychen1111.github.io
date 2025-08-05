@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /Chinese/
 author_profile: true
 redirect_from:
@@ -11,7 +11,7 @@ redirect_from:
 <style>
     /* 强制拓宽本页面的主内容区域 */
     .page__inner-wrap {
-        max-width: 1200px !important;
+        max-width: 1600px !important;
     }
 
     /* 保留：为你名字创建的专属样式 */
