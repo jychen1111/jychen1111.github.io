@@ -11,7 +11,7 @@ redirect_from:
 <style>
     /* 强制拓宽本页面的主内容区域 */
     .page__inner-wrap {
-        max-width: 1200px !important;
+        max-width: 1350px !important;
     }
 
     /* 保留：为你名字创建的专属样式 */
@@ -61,7 +61,7 @@ redirect_from:
   </p>
 </div>
 
-
+***
 
 # Working in Progress
 
@@ -70,7 +70,7 @@ redirect_from:
 3. **Chen, J.**, Zeng, W., & Mou, Y. (*Under Review*).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
 4. **Chen, J.**, Dai, F., & Mou, Y. (*Under Review*). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility.
 
-
+***
 
 Conference paper
 ======
