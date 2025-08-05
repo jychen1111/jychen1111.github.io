@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: default
 permalink: /other/
 author_profile: true
 redirect_from:
