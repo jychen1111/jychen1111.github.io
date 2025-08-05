@@ -49,25 +49,20 @@ redirect_from:
 
 # Peer-reviewed Journal Articles  
 
-<div class="reference-card">
-  <p>
-    2. Zeng, W., & <strong>Chen, J.*</strong> (2025, forthcoming). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>. (*Corresponding author)
-  </p>
-</div>
+2. Zeng, W., & ***Chen, J.**** (2025, in press). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. *Health Communication*. (*Corresponding author)
 
-<div class="reference-card">
-  <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025, forthcoming). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society</i>.
-  </p>
-</div>
+1. ***Chen, J.***, Zeng, W., & Mou, Y. (2025, in press). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. *Technology in Society*.
 
 ***
 
 # Working in Progress
 
 1. **Chen, J.**, & Mou, Y. (*Revise & Resubmit*). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience.
+   
 2. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Under Review*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+
 3. **Chen, J.**, Zeng, W., & Mou, Y. (*Under Review*).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
+
 4. **Chen, J.**, Dai, F., & Mou, Y. (*Under Review*). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility.
 
 ***
