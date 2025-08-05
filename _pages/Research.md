@@ -73,7 +73,6 @@ redirect_from:
 ***
 
 # Conference paper
-<div style="text-align: justify;">
 
 1. **Chen, J.** (2025, August). Algorithmic Dating while Artificially Vet Political Profiles? Moderation Effects of Dating Motivations Types. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
 
@@ -102,5 +101,3 @@ redirect_from:
 13. Dai, F., & **Chen, J.** (2024, June). Fact-checking is fact-checking? A comparative analysis of four Chinese fact-checking organizations. *Paper presented at the 74th Annual International Communication Association Conference (ICA)*, Gold Coast, Australia.
 
 14. **Chen, J.**, Lin, L., & Deng, Y. (2022, May). How to investigate the truth in Chinese online space: a case from the practice by fact-checkers in Nanjing University. *Paper presented at the 19th Annual Chinese Internet Research Conference (CIRC)*, Hong Kong (online due to the pandemic).
-
-</div>
