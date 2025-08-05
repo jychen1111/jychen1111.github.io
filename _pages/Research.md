@@ -49,9 +49,20 @@ redirect_from:
 
 # Peer-reviewed Journal Articles  
 
-2. Zeng, W., & ***Chen, J.**** (2025, in press). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. *Health Communication*. (*Corresponding author)
 
-1. ***Chen, J.***, Zeng, W., & Mou, Y. (2025, in press). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. *Technology in Society*.
+<div class="reference-card">
+  <p>
+    2. Zeng, W., & <strong>Chen, J.*</strong> (2025, forthcoming). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>. (*Corresponding author)
+  </p>
+</div>
+
+
+<div class="reference-card">
+  <p>
+    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025, forthcoming). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society</i>.
+  </p>
+</div>
+
 
 ***
 
