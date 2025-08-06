@@ -59,9 +59,9 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032. 
-    <a href="https://doi.org/10.1016/j.techsoc.2025.103032" target="_blank">https://doi.org/10.1016/j.techsoc.2025.103032</a>
+    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032.
   </p>
+  <a href="https://doi.org/10.1016/j.techsoc.2025.103032" class="fulltext-button" target="_blank">Full Text</a>
 </div>
 
 
