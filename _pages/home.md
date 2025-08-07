@@ -37,24 +37,24 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是牟
 - Certificate of human-machine communication, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## News
+* [2025-08-01] Today, my two papers were accepted by *Technology in Society* and *Health Communication* respectively.
 * [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
 * [2025-01-16] I have 4 papers accepted by the 75th ICA, in the Health, CAT, Jouranlism Division and Human-machine Interest Group. See you in Denver.
-* [2024-05-20]  I had a great week with Henry Jenkins on the Fan Culture Studies Tour in Shanghai!
-* [2024-03-30]  My first-authored work was accepted in the CCA panel of AEJMC and ***won the best paper!***
+* [2024-03-30] My first-authored work was accepted in the CCA panel of AEJMC and ***won the best paper!***
 
 ## Research Interest
 My research interests are broad, focusing primarily on human-machine communication and socio-political factors in SHER issues. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
 
 ### Topics
 Specifically, the research topics I am interested in include:
-1. AIGC and effects
-2. Media psychology in human-machine interaction
-3. Science, technology and socio-politics
+- AIGC and media effects
+- The intersection of science, technology and sociopolitics
+- Media psychology in human-machine interaction
+- Misinformation, disinformation and conspiracy theories
 
 ------
 
 ### More about me
-I caught fire exploring. 
 
 I grew up with endless tests under the Chinese college entrance exam system, was admitted to Nanjing University (NJU), and enrolled in the **[School of Journalism and Communication](https://jc.nju.edu.cn/)**. For a while, I thought that my life would be spent as a conformist: reading the magnum opus of thinkers like Marx or Heidegger during schooling, actively engaging in various informal relationships, and finally graduating to a little reporter writing news about irrelevance and all the social hoopla all day long. But I kind of just felt meh. I yearned to something between macro-theory and news interviews and yearned to explore the empirical impact of digital media on human society. 
 
