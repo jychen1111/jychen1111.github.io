@@ -36,12 +36,6 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是牟
 - Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
 - Certificate of human-machine communication, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
-## News
-* [2025-08-01] Today, my two papers were accepted by *Technology in Society* and *Health Communication* respectively.
-* [2025-05-16] I have 3 papers accepted by the 108th AEJMC, in the Mass Communication & Society Division and Entertainment Studies Interest Group . See you in San Francisco.
-* [2025-01-16] I have 4 papers accepted by the 75th ICA, in the Health, CAT, Jouranlism Division and Human-machine Interest Group. See you in Denver.
-* [2024-03-30] My first-authored work was accepted in the CCA panel of AEJMC and ***won the best paper!***
-
 ## Research Interest
 My research interests are broad, focusing primarily on human-machine communication and socio-political factors in SHER issues. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
 
