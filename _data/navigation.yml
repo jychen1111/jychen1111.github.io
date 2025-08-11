@@ -14,8 +14,8 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "Other Work"
-    url: /other/  
+  #- title: "Other Work"
+  #  url: /other/  
     
   - title: "中文"
     url: /Chinese/ 
