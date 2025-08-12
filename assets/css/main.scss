@@ -58,8 +58,14 @@ a:active {
   text-decoration: underline;
 }
 
-/* 让 Follow 弹出层始终在最上方 */
+/* 让 Follow 弹窗浮到所有卡片之上，但不改变原本大小 */
 .author__urls-wrapper {
-  position: relative;
-  z-index: 9999 !important;
+  position: absolute !important;
+  z-index: 999999 !important;
+}
+
+/* 避免卡片或其他容器把它压住 */
+.reference-card,
+.page__inner-wrap {
+  z-index: auto !important;
 }
