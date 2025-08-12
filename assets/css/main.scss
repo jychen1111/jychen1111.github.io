@@ -57,3 +57,9 @@ a:active {
   color: #5c6d3b; // Sea Green（悬停时更深的绿色）
   text-decoration: underline;
 }
+
+/* 让 Follow 弹出层始终在最上方 */
+.author__urls-wrapper {
+  position: relative;
+  z-index: 9999 !important;
+}
