@@ -48,7 +48,7 @@ redirect_from:
 </style>
 
 # Peer-reviewed Journal Articles  
-(* represents the Corresponding author)
+( * represents the *corresponding author*)
 
 <div class="reference-card">
   <p>
