@@ -57,15 +57,3 @@ a:active {
   color: #5c6d3b; // Sea Green（悬停时更深的绿色）
   text-decoration: underline;
 }
-
-/* 让 Follow 弹窗浮到所有卡片之上，但不改变原本大小 */
-.author__urls-wrapper {
-  position: absolute !important;
-  z-index: 999999 !important;
-}
-
-/* 避免卡片或其他容器把它压住 */
-.reference-card,
-.page__inner-wrap {
-  z-index: auto !important;
-}
