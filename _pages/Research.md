@@ -50,11 +50,6 @@ redirect_from:
 # Peer-reviewed Journal Articles  
 ( * represents the *corresponding author* )
 
-<div class="reference-card">
-  <p>
-    3. Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). “Beauty Knows No Bounds”: "Beauty Knows No Bounds": Exploring The Influence Of Body Size And Content Focus On Women's Body Positivity. <i>Body Image, 55<i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
-  </p>
-</div>
 
 <div class="reference-card">
   <p>
