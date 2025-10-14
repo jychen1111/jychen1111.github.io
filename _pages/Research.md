@@ -52,10 +52,9 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    3. Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). “Beauty Knows No Bounds”: "Beauty Knows No Bounds": Exploring The Influence Of Body Size And Content Focus On Women's Body Positivity. <i>Body Image, 55<i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985
+    3. Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). “Beauty Knows No Bounds”: "Beauty Knows No Bounds": Exploring The Influence Of Body Size And Content Focus On Women's Body Positivity. <i>Body Image, 55<i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
   </p>
 </div>
-
 
 <div class="reference-card">
   <p>
@@ -63,12 +62,13 @@ redirect_from:
   </p>
 </div>
 
-
 <div class="reference-card">
   <p>
     1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032. https://doi.org/10.1016/j.techsoc.2025.103032.
   </p>
 </div>
+
+
 
 
 ***
