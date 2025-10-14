@@ -53,7 +53,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032. https://doi.org/10.1016/j.techsoc.2025.103032.
+    1. Zeng, W., Chen, J., Zhou, Y.-X., & Wen, N. (2025). “beauty knows no bounds”: Exploring the influence of body size and content focus on women’s body positivity. Body Image, 55, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
   </p>
 </div>
 
