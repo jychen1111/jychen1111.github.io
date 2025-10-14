@@ -52,6 +52,13 @@ redirect_from:
 
 <div class="reference-card">
   <p>
+    3. Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). “Beauty Knows No Bounds”: "Beauty Knows No Bounds": Exploring The Influence Of Body Size And Content Focus On Women's Body Positivity. <i>Body Image, 55<i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985
+
+  </p>
+</div>
+
+<div class="reference-card">
+  <p>
     2. Zeng, W., & <strong>Chen, J.*</strong> (2025). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11. https://doi.org/10.1080/10410236.2025.2544987. 
   </p>
 </div>
