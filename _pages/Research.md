@@ -53,7 +53,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1. Zeng, W., Chen, J., Zhou, Y.-X., & Wen, N. (2025). “beauty knows no bounds”: Exploring the influence of body size and content focus on women’s body positivity. Body Image, 55, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
+    1. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). “beauty knows no bounds”: Exploring the influence of body size and content focus on women’s body positivity. <i>Body Image, 55</i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
   </p>
 </div>
 
