@@ -53,7 +53,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>. https://doi.org/10.1080/19331681.2025.2592126.
+    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15. https://doi.org/10.1080/19331681.2025.2592126.
   </p>
 </div>
 
