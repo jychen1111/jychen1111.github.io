@@ -47,13 +47,28 @@ redirect_from:
 }
 </style>
 
+.access-link {
+    color: #9ca3af;       /* 浅灰色 (slate-400) */
+    font-size: 0.85em;    /* 字号缩小到原来的 85% */
+    text-decoration: none; /* 去掉下划线，清爽一点 */
+    margin-left: 4px;     /* 和前面的字拉开一点点距离 */
+    transition: color 0.2s;
+}
+
+/* 鼠标放上去时颜色稍微变深，提示可以点击 */
+.access-link:hover {
+    color: #6b7280;       /* 鼠标悬停变为深灰 */
+    text-decoration: underline;
+}
+</style>
+
 # Peer-reviewed Journal Articles  
 ( * represents the *corresponding author* )
 
 
 <div class="reference-card">
   <p>
-    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15. https://doi.org/10.1080/19331681.2025.2592126.
+    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15. <a href="https://doi.org/10.1080/19331681.2025.2592126" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
