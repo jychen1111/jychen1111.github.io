@@ -105,7 +105,7 @@ body, p, li, .page__content {
 
 /* 1. 大容器：居中，且限制最大宽度 */
 #main, .initial-content {
-    max-width: 1100px !important; /* 你喜欢的宽度 */
+    max-width: 1000px !important; /* 你喜欢的宽度 */
     margin-left: auto !important;
     margin-right: auto !important;
     
@@ -116,7 +116,7 @@ body, p, li, .page__content {
 /* 2. 侧边栏（左边）：固定在左侧，占 25% 宽度 */
 .sidebar {
     float: left !important;
-    width: 25% !important; 
+    width: 30% !important; 
     margin-right: 0 !important;
     clear: left !important;
     
