@@ -116,7 +116,7 @@ body, p, li, .page__content {
 /* 2. 侧边栏（左边）：固定在左侧，占 25% 宽度 */
 .sidebar {
     float: left !important;
-    width: 30% !important; 
+    width: 20% !important; 
     margin-right: 0 !important;
     clear: left !important;
     
@@ -127,7 +127,7 @@ body, p, li, .page__content {
 /* 3. 正文内容（右边）：固定在右侧，占 75% 宽度 */
 .page {
     float: right !important; /* 关键：让它乖乖待在右边 */
-    width: 70% !important;   /* 剩下 30% 留给侧边栏和空隙 */
+    width: 80% !important;   /* 剩下 30% 留给侧边栏和空隙 */
     
     padding-right: 0 !important; /* 去掉原本右边的巨大留白 */
     margin-right: 0 !important;  
