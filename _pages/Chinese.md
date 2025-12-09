@@ -27,7 +27,7 @@ redirect_from:
 
 我是陈俊沂，目前是上海交通大学媒体与传播学院的研三学生。我的导师是 **[牟怡教授](https://cfmhmc.github.io/yimou.github.io/)**。我同时是**未来媒体与人机传播实验室**的一员。
 
-我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。
+我主要关注人机传播，以及健康、科学、环境、风险议题中的社会政治与技术因素。相关研究成果发表于 *Technology in Society*, *Body Image*, *Journal of Information Technology & Politics* 等 SSCI 期刊。
 
 在加入上海交通大学之前，我在南京大学新闻传播学院取得了学士学位，导师是 **[王成军教授](https://chengjun.github.io/)**。
 
