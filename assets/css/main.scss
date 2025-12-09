@@ -73,7 +73,7 @@ body, p, li, .page__content {
 .author__pronouns,
 .sidebar p,
 .sidebar li {
-    font-size: 14px !important;  /* 这里的数值你可以随便调 */
+    font-size: 12px !important;  /* 这里的数值你可以随便调 */
     line-height: 1.5 !important;
 }
 
@@ -89,7 +89,7 @@ body, p, li, .page__content {
 /* 3. 你的大名 (Tanya Junyi Chen...) */
 /* 名字通常要比简介大一点，不然不好看 */
 .author__name {
-    font-size: 16px !important; /* 原来可能很大，改小一点 */
+    font-size: 15px !important; /* 原来可能很大，改小一点 */
 }
 
 /* 4. (可选) 让那个学校的图标也变小一点，保持协调 */
