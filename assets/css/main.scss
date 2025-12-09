@@ -99,3 +99,36 @@ body, p, li, .page__content {
 }
 
 
+
+
+
+/* --- 布局终极平衡版：居中 + 不太满 --- */
+
+/* 1. 给整个主容器设一个上限，并居中 */
+#main, .initial-content {
+    /* 1200px 是个黄金数值：既不会太窄，也不会占满整个宽屏 */
+    /* 这里的宽度 = 侧边栏宽度 + 内容宽度 */
+    max-width: 1100px !important; 
+    
+    /* 这两行就是“居中”的魔法 */
+    margin-left: auto !important;
+    margin-right: auto !important;
+    
+    /* 稍微加点内边距，防止手机上看贴边太紧 */
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+/* 2. 确保侧边栏和正文乖乖待在这个框里 */
+.page {
+    width: auto !important; /* 让它自然填充剩余空间 */
+    padding-right: 0 !important; /* 去掉多余的留白 */
+    float: none !important; /* 防止浮动导致的错位（保险起见） */
+}
+
+/* 3. (可选) 如果你的顶部导航栏也没有居中，加上这个 */
+.masthead .inner {
+    max-width: 1100px !important; /* 保持和下面一样宽 */
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
