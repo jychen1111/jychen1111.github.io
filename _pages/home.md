@@ -21,11 +21,9 @@ redirect_from:
 
 
 
-I'm a third-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I’m also a **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** member. 
+I'm a third-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I’m also a **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** member. I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in <span class="my-name">socio-political and technological factors in health, scientific and risk issues</span>. 
 
 Tanya is my English name from my favorite Singaporean singer. 
-
-I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in <span class="my-name">socio-political and technological factors in health, scientific and risk issues</span>. 
 
 I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
@@ -34,21 +32,13 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是牟
 我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
 
 ## Education
-- M.A. in Communication,
-  Shanghai Jiao Tong University, Shanghai, China,
-  2023-2026
-- B.A. in Journalism,
-  Nanjing University, Nanjing, China,
-  2019-2023
+- M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
+- B.A. in Journalism, Nanjing University, Nanjing, China, 2019-2023
  
 ***
 
-- Exchange Student, Institute of Communication Studies,
-  National Yang Ming Chiao Tung University,
-  Aug 2025 – Jan 2026
-- Certificate of human-machine communication, Social Media Lab,
-  Stanford University,
-  Feb–Jul 2022 (online due to the pandemic)
+- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
+- Certificate of human-machine communication, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## Research Interest
 My research interests are broad, focusing primarily on human-machine communication and socio-political factors in SHER issues. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
