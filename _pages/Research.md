@@ -50,7 +50,7 @@ redirect_from:
 <style>
 .access-link {
     color: #9ca3af !important;   /* 强制变浅灰，无视主题默认色 */
-    font-size: 0.8em !important; /* 强制变小 */
+    font-size: 0.88em !important; /* 强制变小 */
     text-decoration: none !important; /* 强制去掉下划线 */
     margin-left: 4px;
     transition: color 0.2s;
