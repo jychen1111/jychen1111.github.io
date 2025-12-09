@@ -25,7 +25,9 @@ I'm a third-year master's student at School of Media and Communication of Shangh
 
 I mainly focus on <span class="my-name">human-machine communication</span> and I am interested in <span class="my-name">socio-political and technological factors in health, scientific and risk issues</span>. I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - jy.chen@sjtu.edu.cn.
 
-Hi，我是上海交通大学媒体与传播学院的研三学生，导师是牟怡教授。我同时是未来媒体与人机传播实验室的一员。我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
+Hi，我是上海交通大学媒体与传播学院的研三学生，导师是牟怡教授。同时是未来媒体与人机传播实验室的一员。
+
+我主要关注人机传播，并对健康、科学、风险议题中的社会政治与技术因素有着浓厚兴趣。欢迎联系我！
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
