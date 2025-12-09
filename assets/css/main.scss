@@ -73,14 +73,14 @@ body, p, li, .page__content {
 .author__pronouns,
 .sidebar p,
 .sidebar li {
-    font-size: 12px !important;  /* 这里的数值你可以随便调 */
-    line-height: 1.4 !important;
+    font-size: 13px !important;  /* 这里的数值你可以随便调 */
+    line-height: 1.5 !important;
 }
 
 /* 2. 侧边栏底部的所有链接 (Email, Github等) */
 .author__urls-wrapper li a,
 .author__urls-wrapper .label {
-    font-size: 12px !important;
+    font-size: 13px !important;
 }
 
 /* 3. 你的大名 (Tanya Junyi Chen...) */
@@ -89,7 +89,3 @@ body, p, li, .page__content {
     font-size: 14px !important; /* 原来可能很大，改小一点 */
 }
 
-/* 4. (可选) 如果你想调整头像大小 */
-.author__avatar img {
-    max-width: 100px !important; /* 或者是你想要的任何大小 */
-}
