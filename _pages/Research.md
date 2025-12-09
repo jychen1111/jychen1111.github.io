@@ -50,7 +50,7 @@ redirect_from:
 <style>
 .access-link {
     color: #9ca3af !important;   /* 强制变浅灰，无视主题默认色 */
-    font-size: 0.7em !important; /* 强制变小 */
+    font-size: 0.8em !important; /* 强制变小 */
     text-decoration: none !important; /* 强制去掉下划线 */
     margin-left: 4px;
     transition: color 0.2s;
@@ -78,19 +78,19 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    3. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985. https://doi.org/10.1016/j.bodyim.2025.101985.
+    3. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985. <a href="https://doi.org/10.1016/j.bodyim.2025.101985" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    2. Zeng, W., & <strong>Chen, J.*</strong> (2025). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11. https://doi.org/10.1080/10410236.2025.2544987. 
+    2. Zeng, W., & <strong>Chen, J.*</strong> (2025). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032. https://doi.org/10.1016/j.techsoc.2025.103032.
+    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032. <a href="https://doi.org/10.1016/j.techsoc.2025.103032" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
