@@ -49,19 +49,22 @@ redirect_from:
 
 </style>
 .access-link {
-    color: #9ca3af;       /* 浅灰色 (slate-400) */
-    font-size: 0.85em;    /* 字号缩小到原来的 85% */
-    text-decoration: none; /* 去掉下划线，清爽一点 */
-    margin-left: 4px;     /* 和前面的字拉开一点点距离 */
+    color: #9ca3af !important;   /* 强制变浅灰，无视主题默认色 */
+    font-size: 0.7em !important; /* 强制变小 */
+    text-decoration: none !important; /* 强制去掉下划线 */
+    margin-left: 4px;
     transition: color 0.2s;
 }
 
-/* 鼠标放上去时颜色稍微变深，提示可以点击 */
+/* 3. 鼠标悬停效果 */
 .access-link:hover {
-    color: #6b7280;       /* 鼠标悬停变为深灰 */
-    text-decoration: underline;
+    color: #6b7280 !important;    /* 悬停时强制变深灰 */
+    text-decoration: underline !important; /* 悬停时加下划线 */
 }
 </style>
+
+
+
 
 # Peer-reviewed Journal Articles  
 ( * represents the *corresponding author* )
