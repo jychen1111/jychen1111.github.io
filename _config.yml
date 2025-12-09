@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Tanya Junyi Chen 陈俊沂"
-  pronouns         : "He/Him/His"  
+  pronouns         : "Shanghai Jiao Tong University"  
   bio              : "Master’s student"
   location         : #"Shanghai"
-  employer         : "Shanghai Jiao Tong University"
+  employer         : #"Shanghai Jiao Tong University"
   uri              : #"https://jychen1111.github.io/"
   email            : "jy.chen@sjtu.edu.cn" 
 
