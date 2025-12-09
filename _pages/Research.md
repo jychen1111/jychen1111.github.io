@@ -47,7 +47,7 @@ redirect_from:
 }
 </style>
 
-</style>
+<style>
 .access-link {
     color: #9ca3af !important;   /* 强制变浅灰，无视主题默认色 */
     font-size: 0.7em !important; /* 强制变小 */
