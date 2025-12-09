@@ -27,7 +27,7 @@ author:
   pronouns         : "He/Him/His"  
   bio              : "Master’s student"
   location         : #"Shanghai"
-  employer         : #"Shanghai Jiao Tong University"
+  employer         : "Shanghai Jiao Tong University"
   uri              : #"https://jychen1111.github.io/"
   email            : "jy.chen@sjtu.edu.cn" 
 
@@ -39,7 +39,7 @@ author:
   orcid            : "https://orcid.org/0009-0005-3444-1714"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : #"https://www.researchgate.net/profile/Chen-Junyi-8"
+  researchgate     : "https://www.researchgate.net/profile/Chen-Junyi-8"
   scopus           : # URL
 
   # Repositories and software development
