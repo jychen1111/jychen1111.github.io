@@ -43,9 +43,9 @@ My research interests are broad, focusing primarily on human-machine communicati
 ### Topics
 Specifically, the research topics I am interested in include:
 - AIGC and media effects
-- The intersection of science, technology and sociopolitics
+- The intersection of technology and sociopolitics
 - Media psychology in human-machine interaction
-- Misinformation, disinformation and conspiracy theories
+- Misinformation, conspiracy theories and fact-checking
 
 ------
 
