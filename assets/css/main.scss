@@ -102,49 +102,58 @@ body, p, li, .page__content {
 
 
 
-/* --- 📏 布局修正：紧凑版 (Close Layout) --- */
 
-/* 1. 大容器：保持居中 */
-#main, .initial-content {
-    max-width: 1100px !important; 
-    margin-left: auto !important;
-    margin-right: auto !important;
-    overflow: hidden !important; 
+/* --- 🛡️ Flexbox 终极稳固版 (不会重叠，间距可控) --- */
+
+/* 1. 给大容器开启“弹性布局” */
+#main {
+    display: flex !important;           /* 开启弹性布局，让子元素自动并排 */
+    flex-direction: row !important;     /*以此为横向排列 */
+    justify-content: center !important; /* 整体居中 */
+    align-items: flex-start !important; /* 顶部对齐 */
+    
+    /* 关键：这里直接控制缝隙大小！想大就改大，想小就改小 */
+    gap: 40px !important;               
+    
+    max-width: 1200px !important;       /* 整体最大宽度 */
+    margin: 0 auto !important;          /* 确保容器本身居中 */
+    padding: 0 20px !important;         /* 防止在大屏边缘贴太紧 */
 }
 
-/* 2. 侧边栏：给一个固定的“瘦身”宽度 */
-/* 之前是百分比，现在改成固定 260px，刚好够放头像和学校名 */
+/* 2. 侧边栏：固定宽度，不许乱动 */
 .sidebar {
-    float: left !important;
-    width: 260px !important; 
-    margin-right: 40px !important; /* 👈 这里控制中间的缝隙大小 */
-    clear: left !important;
-    min-width: 200px !important;
+    width: 260px !important;      /* 固定宽度 */
+    flex-shrink: 0 !important;    /* 禁止被挤压 */
+    
+    /* 清除之前的浮动垃圾代码 */
+    float: none !important;       
+    margin-right: 0 !important;   
+    margin-left: 0 !important;
 }
 
-/* 3. 正文内容：自动填满剩下的空间 */
+/* 3. 正文：自动占满剩余空间 */
 .page {
-    /* 关键改动：改成 float: left，让它紧挨着侧边栏 */
-    float: left !important; 
+    flex-grow: 1 !important;      /* 占据剩下的所有宽度 */
+    min-width: 0 !important;      /* 防止内容溢出 */
+    width: auto !important;       /* 自动宽度 */
     
-    /* 这里的数学题：总宽度(100%) - 侧边栏(260px) - 缝隙(40px) */
-    width: calc(100% - 300px) !important; 
-    
-    padding-right: 0 !important; 
-    clear: none !important;
+    /* 清除之前的浮动垃圾代码 */
+    float: none !important;
+    margin: 0 !important;
+    padding: 0 !important;
 }
 
-/* 4. 手机端适配保持不变 */
+/* 4. 手机端保护：屏幕变窄时自动变回上下排列 */
 @media (max-width: 800px) {
-    .sidebar, .page {
-        float: none !important;
-        width: 100% !important;
-        margin-right: 0 !important;
+    #main {
+        flex-direction: column !important; /* 变成垂直排列 */
+        align-items: center !important;    /* 居中对齐 */
+        gap: 20px !important;
     }
-    /* 手机上让侧边栏居中 */
+    .sidebar, .page {
+        width: 100% !important;
+    }
     .sidebar {
-        margin-left: auto !important;
-        margin-right: auto !important;
-        text-align: center !important; 
+        text-align: center !important; /* 手机上头像居中 */
     }
 }
