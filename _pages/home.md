@@ -25,8 +25,6 @@ I'm a third-year master's student at School of Media and Communication of Shangh
 
 I mainly focus on human-machine communication and I am interested in socio-political and technological factors in health, scientific and risk issues. My research has been published in leading SSCI journals including *Technology in Society*, *Body Image*, and *Health Communication*.
 
-I would love to chat and collaborate if you are interested in any aspect of me. Please email me at - **jy.chen@sjtu.edu.cn**.
-
 Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。
 
 我主要关注人机传播，以及健康、科学、环境、风险议题中的社会政治与技术因素。欢迎联系我。
