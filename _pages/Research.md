@@ -49,7 +49,7 @@ redirect_from:
 
 <style>
 .access-link {
-    color: #9ca3af !important;   /* 强制变浅灰，无视主题默认色 */
+    color: #5f9b00 !important;   /* 强制变浅灰，无视主题默认色 */
     font-size: 0.88em !important; /* 强制变小 */
     text-decoration: none !important; /* 强制去掉下划线 */
     margin-left: 4px;
@@ -58,7 +58,7 @@ redirect_from:
 
 /* 3. 鼠标悬停效果 */
 .access-link:hover {
-    color: #6b7280 !important;    /* 悬停时强制变深灰 */
+    color: #5c6d3b !important;    /* 悬停时强制变深灰 */
     text-decoration: underline !important; /* 悬停时加下划线 */
 }
 </style>
