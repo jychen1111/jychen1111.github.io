@@ -66,7 +66,7 @@ redirect_from:
 
 
 
-# Peer-reviewed Journal Articles  
+# Peer-reviewed journal articles  
 ( * represents the *corresponding author* )
 
 
@@ -99,7 +99,7 @@ redirect_from:
 
 ***
 
-# Working in Progress
+# Working in progress
    
 1. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Under Review*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
 
