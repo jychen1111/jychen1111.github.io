@@ -67,8 +67,6 @@ redirect_from:
 
 
 # Peer-reviewed journal articles  
-( * represents the *corresponding author* )
-
 
 <div class="reference-card">
   <p>
@@ -84,7 +82,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    2. Zeng, W., & <strong>Chen, J.*</strong> (2025). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
+    2. Zeng, W., & <strong>Chen, J.*</strong> (2025, corresponding author). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
