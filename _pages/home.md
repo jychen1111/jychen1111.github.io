@@ -20,9 +20,11 @@ redirect_from:
 </style>
 
 
-I'm a third-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I’m also a **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** member. Tanya is my English name from my favorite Singaporean singer. 
+I'm a third-year master's student at School of Media and Communication of Shanghai Jiao Tong University  (SMC, SJTU), advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I’m also a **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** member. 
 
 I mainly focus on human-machine communication and I am interested in socio-political and technological factors in health, scientific and risk issues. My research has been published in leading SSCI journals such as *Technology in Society* and *Body Image*.
+
+Since 2023, I've attended about 60 live music shows, which is my biggest hobby. Tanya is my favorite singer from Singapore, hence my English name.
 
 Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。
 
