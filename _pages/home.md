@@ -20,7 +20,7 @@ redirect_from:
 </style>
 
 
-My name is Junyi Chen. I'm a third-year master's student at the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)**, School of Media and Communication of Shanghai Jiao Tong University, advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I mainly focus on human-machine communication and my research interest lies in socio-political and technological factors in scientific, health, environmental and risk-related (SHER) issues. My research has been published in leading SSCI journals such as *Technology in Society* and *Body Image*.
+My name is Junyi Chen. I'm a third-year master's student at the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)**, School of Media and Communication of Shanghai Jiao Tong University, advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I mainly focus on human-machine communication and my research interest lies in socio-political and technological factors in scientific, health, environmental and risk-related (SHER) issues. My research has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
 
 Since 2023, I've attended about 60 live music shows, which is my biggest hobby. Tanya is my favorite singer from Singapore, hence my English name.
 
