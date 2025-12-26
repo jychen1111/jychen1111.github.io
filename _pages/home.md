@@ -20,7 +20,8 @@ redirect_from:
 </style>
 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/58x0nIFw9J4E8t4euRGoil?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1c8uS5GIFHAPIwGUhOiYMa?utm_source=generator&theme=0" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 
 
 My name is Junyi Chen. I'm a third-year master's student at the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)**, School of Media and Communication of Shanghai Jiao Tong University, advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I mainly focus on human-machine communication and my research interest lies in socio-political and technological factors in scientific, health, environmental and risk-related (SHER) issues. My research has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
