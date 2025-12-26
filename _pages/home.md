@@ -29,7 +29,8 @@ Outside academia, I am an avid live music enthusiast. Since 2023, I have attende
 
 Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。
 
-我主要关注人机传播，以及健康、科学、环境、风险议题中的社会政治与技术因素。欢迎联系我。
+我的研究聚焦于人机传播，关注社会政治因素与新兴技术如何交叉影响科学、健康、环境与风险相关议题的传播效果。欢迎交流与联系。
+
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
