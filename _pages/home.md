@@ -20,8 +20,7 @@ redirect_from:
 </style>
 
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0gTmeFpSWbl3Ah2gEBZdRt?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/just-say-so/499044920?i=499044924"></iframe>
 
 
 My name is Junyi Chen. I'm a third-year master's student at the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)**, School of Media and Communication of Shanghai Jiao Tong University, advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. I mainly focus on human-machine communication and my research interest lies in socio-political and technological factors in scientific, health, environmental and risk-related (SHER) issues. My research has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
