@@ -25,14 +25,11 @@ redirect_from:
 ***
 
 
-My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–machine communication and examines how socio-political and technological factors shape public responses to scientific, health, environmental, and risk-related (SHER) issues. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
+My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–machine communication and examines how do people make judgments about what is trustworthy, meaningful, and worth relying on in AI-mediated environments. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
 
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 60 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
-Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。
-
-我的研究聚焦于人机传播，关注社会政治因素与新兴技术如何交叉影响科学、健康、环境与风险相关议题的传播效果。欢迎交流与联系。
-
+Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我的研究聚焦于人机传播，试图探讨：在AI的环境下，人们如何判断什么是可信的、可依赖的、值得交付的。欢迎和我联系！
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
