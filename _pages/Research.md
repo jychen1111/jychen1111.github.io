@@ -97,9 +97,9 @@ redirect_from:
 
 # Working in progress
    
-1. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Revise & Resubmit*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
+1. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Reject & Resubmit*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
 
-2. **Chen, J.**, Zeng, W., & Mou, Y. (*In Submission*).Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion.
+2. **Chen, J.**, Zeng, W., & Mou, Y. (*Revise & Resubmit*). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages.
 
 3. **Chen, J.**, Dai, F., & Mou, Y. (*Under Review*). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre, and Heuristic Thinking on Correction Credibility.
 
