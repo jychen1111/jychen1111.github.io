@@ -68,25 +68,25 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15 <strong> (2025 Q1 46/227) </strong>. <a href="https://doi.org/10.1080/19331681.2025.2592126" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
+    4. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15 <strong> (Q1 46/227) </strong>. <a href="https://doi.org/10.1080/19331681.2025.2592126" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    3. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985 <strong> (2025 Q1 17/223) </strong>. <a href="https://doi.org/10.1016/j.bodyim.2025.101985" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
+    3. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985 <strong> (Q1 17/223) </strong>. <a href="https://doi.org/10.1016/j.bodyim.2025.101985" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    2. Zeng, W., & <strong>Chen, J.*</strong> (2025, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11 <strong> (2025 Q1 37/227) </strong>. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
+    2. Zeng, W., & <strong>Chen, J.*</strong> (2025, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication</i>, 1-11 <strong> (Q1 37/227) </strong>. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
 <div class="reference-card">
   <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032 <strong> (2025 Q1 2/273) </strong>. <a href="https://doi.org/10.1016/j.techsoc.2025.103032" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
+    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032 <strong> (Q1 2/273) </strong>. <a href="https://doi.org/10.1016/j.techsoc.2025.103032" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
   </p>
 </div>
 
