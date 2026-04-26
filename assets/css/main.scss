@@ -100,44 +100,40 @@ body, p, li, .page__content {
 
 
 
+/* --- 🚀 更宽布局优化版 --- */
 
-/* --- 🚨 布局防撞修复版 (Fixed Layout) --- */
-
-/* 1. 大容器：居中，且限制最大宽度 */
+/* 总宽度 */
 #main, .initial-content {
-    max-width: 1100px !important; /* 你喜欢的宽度 */
+    max-width: 1300px !important;
     margin-left: auto !important;
     margin-right: auto !important;
-    
-    /* 必须清除浮动，防止高度塌陷 */
-    overflow: hidden !important; 
+    overflow: hidden !important;
 }
 
-/* 2. 侧边栏（左边）：固定在左侧，占 25% 宽度 */
+/* 侧边栏 */
 .sidebar {
     float: left !important;
-    width: 22% !important; 
-    margin-right: 0 !important;
-    clear: left !important;
-    
-    /* 防止侧边栏太小，给个最小宽度 */
-    min-width: 200px !important; 
+    width: 18% !important;
+    min-width: 180px !important;
 }
 
-/* 3. 正文内容（右边）：固定在右侧，占 75% 宽度 */
+/* 正文 */
 .page {
-    float: right !important; /* 关键：让它乖乖待在右边 */
-    width: 78% !important;   /* 剩下 30% 留给侧边栏和空隙 */
-    
-    padding-right: 0 !important; /* 去掉原本右边的巨大留白 */
-    margin-right: 0 !important;  
-    
-    /* 关键：防止再次重叠 */
-    clear: none !important;
+    float: right !important;
+    width: 82% !important;
+
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+    margin-right: 0 !important;
 }
 
-/* 4. 手机端适配 (重要！) */
-/* 如果屏幕很小，就不要左右分栏了，变回上下排列 */
+/* 🚨 关键：解除内部限宽 */
+.page__inner-wrap {
+    max-width: 100% !important;
+}
+
+/* 手机端 */
 @media (max-width: 800px) {
     .sidebar, .page {
         float: none !important;
