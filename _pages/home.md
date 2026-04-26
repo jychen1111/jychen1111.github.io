@@ -37,7 +37,7 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[�
  
 ***
 
-- Exchange Student, Institute of Communication Studies, National Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
+- Exchange Student, Institute of Communication Studies, Taiwan Yang Ming Chiao Tung University, Aug 2025 – Jan 2026
 - Exchange Student, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## Research Interest
