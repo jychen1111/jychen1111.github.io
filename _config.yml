@@ -29,7 +29,7 @@ author:
   location         : #"Shanghai"
   employer         : "Shanghai Jiao Tong University"
   uri              : #"https://jychen1111.github.io/"
-  email            : #"jy.chen@sjtu.edu.cn" 
+  #email            : #"jy.chen@sjtu.edu.cn" 
 
   # Academic websites
   academia         : # URL
