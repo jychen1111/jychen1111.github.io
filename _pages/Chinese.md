@@ -26,7 +26,6 @@ redirect_from:
 # Hi，你好！
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0YDxv7hKeY3CHVIvUVmgmH?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-***
 
 我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师为 **[牟怡教授](https://cfmhmc.github.io/yimou.github.io/)**，同时是**未来媒体与人机传播实验室**的一员。
 
