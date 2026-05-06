@@ -66,6 +66,6 @@ Through subsequent processes of academic trial and error, I came to realize that
   
 - Just as I began working on my undergraduate thesis, ChatGPT burst onto the scene. As an AI immigrant, I am witnessing a profound techno-social transformation. As a researcher deeply grounded in the discipline of journalism and communication studies, I am curious about precisely how people establish, or choose not to establish, relationships with AI, and the underlying psychological mechanisms at play. Furthermore, I am equally interested in the societal factors underpinning this "AI communication", such as the digital divide, opinion polarization, and the like.
 
-在我建立三观的成年之初，新冠肺炎病毒爆发了。在隔离期间，我目睹了社交媒体上的科学、健康、社会、国际政治信息相互交织。由此，我对“公众对科学、技术的理解”抱有浓厚的兴趣，尤其是从社会、政治、文化的角度加以考察。
+- 在我建立三观的成年之初，新冠肺炎病毒爆发了。在隔离期间，我目睹了社交媒体上的科学、健康、社会、国际政治信息相互交织。由此，我对“公众对科学、技术的理解”抱有浓厚的兴趣，尤其是从社会、政治、文化的角度加以考察。
 
-在我开始学习写本科毕业论文的时候，ChatGPT横空出世。作为一名“AI时代”的移民，我正亲身经历着一场重大的技术-社会变革。对于我，一个深受新闻传播学学科培养的研究者而言，我好奇人们具体如何和AI建立（或不建立）关系，背后存在何种心理机制。并且同样的，我关注“AI传播”背后的社会因素，例如数字鸿沟、观点极化，等等。
+- 在我开始学习写本科毕业论文的时候，ChatGPT横空出世。作为一名“AI时代”的移民，我正亲身经历着一场重大的技术-社会变革。对于我，一个深受新闻传播学学科培养的研究者而言，我好奇人们具体如何和AI建立（或不建立）关系，背后存在何种心理机制。并且同样的，我关注“AI传播”背后的社会因素，例如数字鸿沟、观点极化，等等。
