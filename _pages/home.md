@@ -22,11 +22,11 @@ redirect_from:
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0gTmeFpSWbl3Ah2gEBZdRt?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–machine communication and examines human-AI relationships, trust, and broader media effects from social, political, and cultural perspectives. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
+My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–machine communication and examines AI persuasion, human-computer interaction, and broader media effects from social, political, and cultural perspectives. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
 
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 60 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
-Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我的研究聚焦于人机传播，试图从社会、政治、文化的因素，综合考察人机关系、信任和更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
+Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我的研究聚焦于人机传播，试图从社会、政治、文化的因素，综合考察AI说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
 
 ## Education
 - M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
