@@ -68,7 +68,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    5. <strong>Chen, J.,*</strong> Dai, F., Mou, Y. (2026, forthcoming). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>. 
+    5. <strong>Chen, J.</strong>, Dai, F., Mou, Y. (2026, forthcoming). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>. 
   </p>
 </div>
 
