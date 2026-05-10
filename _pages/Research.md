@@ -65,6 +65,14 @@ redirect_from:
 
 
 # Peer-reviewed journal articles  
+
+<div class="reference-card">
+  <p>
+    5. <strong>Chen, J.,*</strong> Dai, F., Mou, Y. (2026,forthcoming). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>. 
+  </p>
+</div>
+
+
 <div class="reference-card">
   <p>
     4. Zeng, W., & <strong>Chen, J.*</strong> (2026, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication, 41</i>(6), 1063–1073 <strong> (Q1 37/227)</strong>. <a href="https://doi.org/10.1080/10410236.2025.2544987" target="_blank" rel="noopener noreferrer" class="access-link">access</a>
