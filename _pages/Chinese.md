@@ -27,9 +27,9 @@ redirect_from:
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ppuSHG7pDD8XfWam7sz76?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师为 **[牟怡教授](https://cfmhmc.github.io/yimou.github.io/)**，同时是**未来媒体与人机传播实验室**的一员。
+我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师为[**牟怡教授**](https://cfmhmc.github.io/yimou.github.io/)，同时是**未来媒体与人机传播实验室**的一员。
 
-我曾在南京大学取得新闻学学士学位，导师是 **[王成军教授](https://chengjun.github.io/)**，也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。
+我曾在南京大学取得新闻学学士学位，导师是[**王成军教授**](https://chengjun.github.io/)，也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。
 
 我的研究聚焦于人机传播，从社会、政治、文化的因素，综合考察AI说服、人机交互，以及更广泛的媒介效果议题。相关研究成果发表于 *Technology in Society*, *Body Image*, *Journal of Information Technology & Politics* 等 SSCI 期刊。
 
