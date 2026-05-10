@@ -105,7 +105,7 @@ redirect_from:
 
 2. **Chen, J.**, Zeng, W., & Mou, Y. (*Revise & Resubmit*). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages.
 
-3. **Chen, J.**, Dai, F., & Mou, Y. (*Under Review*). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre, and Heuristic Thinking on Correction Credibility.
+3. **Chen, J.**, Zhu, L., & Li, X. (*Under Review*). How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect.
 
 ***
 
