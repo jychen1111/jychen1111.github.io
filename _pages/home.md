@@ -51,12 +51,12 @@ Specifically, the research topics I am interested in include:
 
 ### More about me
 
-I grew up with endless tests under the Chinese college entrance exam system and gained admission to Nanjing University. There, I was immersed in a rich intellectual atmosphere of literature, history, and philosophy, in which humanistic ethos has profoundly shaped my research sensibilities. On the other hand, I have been extensively involved in the practical training aspects of journalism. I served as the Editor-in-Chief of *NJU FactCheck*, which was repeatedly recognized as an *Outstanding Data Content Creator* by *The Paper*. More importantly, I was fortunate to benefit from these practical experiences, cultivating an empirically oriented mindset within a humanistic academic environment.
+I grew up with endless tests under the Chinese college entrance exam system and gained admission to Nanjing University. There, I was immersed in a rich intellectual atmosphere of literature, history, and philosophy, in which humanistic ethos has profoundly shaped my research sensibilities. On the other hand, I have been extensively involved in the practical training aspects of journalism. I served as the Editor-in-Chief of [*NJU FactCheck*](https://m.thepaper.cn/user_interaction_3358934), which was repeatedly recognized as an *Outstanding Data Content Creator* by *The Paper*. More importantly, I was fortunate to benefit from these practical experiences, cultivating an empirically oriented mindset within a humanistic academic environment.
 
 Through subsequent processes of academic trial and error, I came to realize that I am best suited to pursue a "middle path" that bridges the gap between grand, abstract theories and concrete, empirical phenomena. I was privileged to participate in an exchange program at **[Stanford's Social Media Lab](https://sml.stanford.edu/)** (online due to lockdown), further completed my undergraduate thesis at **[Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/)**, and finally secured direct admission to the graduate program at Shanghai Jiao Tong University.
 
 
-我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究品味。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任南大《核真录》的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中习得了偏向实证的思维方式。
+我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究品味。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任[南京大学《核真录》](https://m.thepaper.cn/user_interaction_3358934)的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中习得了偏向实证的思维方式。
 
 在后续的科研学习和试错中，我开始明确自己更适合走一条“中间道路”，即宏大抽象理论与现实经验现象之间的研究路径。我有幸地参加了美国斯坦福大学社交媒体实验室的交换，在南大的计算传播实验室完成大学本科的毕业论文，并保研至上海交大。
 
