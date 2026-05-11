@@ -38,7 +38,7 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[�
 - Exchange Student, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## Research Interest
-My research interests are broad, focusing primarily on human-machine communication and socio-political factors in SHER issues. These two seemingly distant fields of study are inextricably linked to my learning and growing experience.
+My research interests are broad, focusing primarily on AIGC persuasion and human-computer interaction. 
 
 ### Topics
 Specifically, the research topics I am interested in include:
