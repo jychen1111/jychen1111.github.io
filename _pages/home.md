@@ -55,7 +55,7 @@ I grew up with endless tests under the Chinese college entrance exam system and 
 Through subsequent processes of academic trial and error, I came to realize that I am best suited to pursue a "middle path" that bridges the gap between grand, abstract theories and concrete, empirical phenomena. I was privileged to participate in an exchange program at **[Stanford's Social Media Lab](https://sml.stanford.edu/)** (online due to lockdown), further completed my undergraduate thesis at **[Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/)**, and finally secured direct admission to the graduate program at Shanghai Jiao Tong University.
 
 
-我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究品味。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任[南京大学《核真录》](https://m.thepaper.cn/user_interaction_3358934)的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中习得了偏向实证的思维方式。
+我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究底色。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任[南京大学《核真录》](https://m.thepaper.cn/user_interaction_3358934)的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中习得了偏向实证的思维方式。
 
 在后续的科研学习和试错中，我开始明确自己更适合走一条“中间道路”，即宏大抽象理论与现实经验现象之间的研究路径。我有幸地参加了美国斯坦福大学社交媒体实验室的交换，在南大的计算传播实验室完成大学本科的毕业论文。
 
