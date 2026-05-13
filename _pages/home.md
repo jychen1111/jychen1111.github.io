@@ -42,9 +42,8 @@ My research interests are broad, focusing primarily on AIGC persuasion and human
 
 ### Topics
 Specifically, the research topics I am interested in include:
-- The role of machines (e.g., GenAI and algorithm) in newsrooms and socio-politics;
-- Public response and understanding of science and technology;
-- The antecedents and consequences of human-AI (non-)relationships;
+- The role of machines (e.g., GenAI and algorithm) in newsrooms and socio-politics,
+- Public adoption, trust, and understanding of science and technology,
 - Life and death in the age of digital technology.
 
 ------
