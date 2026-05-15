@@ -111,11 +111,11 @@ redirect_from:
 
 # Conference paper
 
-1. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages. *Paper presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+1. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
-2. **Chen, J.**, Zhu, L., & Li, X. (2026, August). Novel Hard News or Stilted Soft News? How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect *Paper presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+2. **Chen, J.**, Zhu, L., & Li, X. (2026, August). Novel Hard News or Stilted Soft News? How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
-3. **Chen, J.**, Chen, J., & Li, X. (2026, August). Harvesting Legitimacy and Avoiding Risk: Strategic Coupling of Political and Scientific Discourses in Chinese Media. *Paper presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+3. **Chen, J.**, Chen, J., & Li, X. (2026, August). Harvesting Legitimacy and Avoiding Risk: Strategic Coupling of Political and Scientific Discourses in Chinese Media. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
 4. **Chen, J.** (2025, August). Algorithmic Dating while Artificially Vet Political Profiles? Moderation Effects of Dating Motivations Types. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
 
