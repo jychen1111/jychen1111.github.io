@@ -1,4 +1,4 @@
-<img width="432" height="14" alt="image" src="https://github.com/user-attachments/assets/53f189e3-3edf-416d-9dc7-cd317001073c" />---
+---
 layout: single
 permalink: /Research/
 author_profile: true
