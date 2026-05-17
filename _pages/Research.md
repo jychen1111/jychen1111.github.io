@@ -113,7 +113,7 @@ redirect_from:
 
 1. **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
-2. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+2. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Machine Authorship in the Out-Group? Investigating the Nationality Effect on the Perceived Credibility of (Un)politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
 3. **Chen, J.**, Zhu, L., & Li, X. (2026, August). Novel Hard News or Stilted Soft News? How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
 
