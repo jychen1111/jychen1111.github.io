@@ -44,7 +44,7 @@ My research focuses on three keywords: *Politics*, *Technology*, and *Relationsh
 Specifically, the research topics I am interested in include:
 - the politicization of science and technology, and public understanding of it;
 - AI-powered information seeking, consumption and avoidance, and its implications for public life;
-- Negative and threat-inducing communication experiences (e.g., mortality salience, stress expression, and political heterogeneity)
+- Negative communication experiences (e.g., mortality salience, stress expression, and political heterogeneity)
   
 ------
 
