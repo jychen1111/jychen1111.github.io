@@ -38,14 +38,14 @@ Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[�
 - Exchange Student, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## Research Interest
-My research focuses on three keywords: *Technology*, *Politics*, and *Trust*. These lead to my main research themes:
+My research focuses on three keywords: *Politics*, *Technology*, and *Relationship*. These lead to my main research themes:
 
 ### Topics
 Specifically, the research topics I am interested in include:
-- The politicization of science and technology and its communication effects;
-- Information acquisition and consumption under the influence of AI;
-- Digital media, life and death.
-
+- the politicization of science and technology, and public understanding of it;
+- AI-powered information seeking, consumption and avoidance, and its implications for public life;
+- Negative and threat-inducing communication experiences (e.g., mortality salience, stress expression, and political heterogeneity)
+  
 ------
 
 ### More about me
