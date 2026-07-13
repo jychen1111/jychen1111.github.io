@@ -18,10 +18,14 @@ redirect_from:
         font-weight: 700;  /* 粗体 */
     }
   
-  .apple-music-embed+p {
+ .apple-music-embed {
   width: 100%;
   height: 120px;
   overflow: hidden;
+}
+
+.apple-music-embed + p {
+  margin-top: 1rem !important;
 }
 </style>
 
