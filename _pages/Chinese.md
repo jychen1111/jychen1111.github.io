@@ -28,7 +28,7 @@ redirect_from:
 }
 
 .apple-music-embed + p {
-  margin-top: 0 !important;
+  margin-top: 1rem !important;
 }
 </style>
 
