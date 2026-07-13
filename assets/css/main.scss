@@ -169,9 +169,9 @@ body, .page__content {
 }
 
 /* 4. (可选) 让那个学校的图标也变小一点，保持协调 */
-.author__urls-wrapper i {
-    font-size: 12px !important;
-    width: 16px !important; /* 调整图标占位宽度，防止太宽 */
+.author__urls-wrapper .fa-envelope-square {
+    font-size: 14px !important;
+    width: 16px !important;
 }
 
 
