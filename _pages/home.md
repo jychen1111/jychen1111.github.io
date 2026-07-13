@@ -46,7 +46,7 @@ My name is Junyi Chen. I am currently a third-year master’s student at Shangha
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 70 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
 <div lang="zh-CN">
-Hi，我是上海交通大学媒体与传播学院的研三学生，导师是<a href="https://cfmhmc.github.io/yimou.github.io/"><strong>牟怡教授</strong></a>。我的研究聚焦于人机传播，试图从社会、政治、文化的因素，综合考察AI说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
+Hi，我是上海交通大学媒体与传播学院的研三学生，导师是<a href="https://cfmhmc.github.io/yimou.github.io/"><strong>牟怡教授</strong></a>。我的研究聚焦于人机传播，试图从<strong>社会、政治、文化</strong>的因素，综合考察 AI 说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
 </div>
 
 
