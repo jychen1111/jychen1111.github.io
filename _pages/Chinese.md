@@ -27,6 +27,9 @@ redirect_from:
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ppuSHG7pDD8XfWam7sz76?utm_source=generator&theme=0" width="100%" height="100" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+
+<div lang="zh-CN">
+
 我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师为[**牟怡教授**](https://cfmhmc.github.io/yimou.github.io/)。我同时是**未来媒体与人机传播实验室**的一员。
 
 我曾在南京大学取得新闻学学士学位，导师是[**王成军教授**](https://chengjun.github.io/)，也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。
@@ -45,3 +48,5 @@ redirect_from:
 3. 特定信息行为（例如，死亡凸显、压力披露）的影响。
 
 我主要使用实验、计算文本分析等定量方法，辅以话语分析和访谈研究，欢迎与我交流 - jy.chen@sjtu.edu.cn
+
+</p>
