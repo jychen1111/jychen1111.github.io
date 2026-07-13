@@ -52,7 +52,7 @@ redirect_from:
 
   <p>我曾在南京大学取得新闻学学士学位，导师是<a href="https://chengjun.github.io/"><strong>王成军教授</strong></a>，也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。</p>
 
-  <p>我的研究聚焦于人机传播，从社会、政治、文化的因素，综合考察 AIGC 说服、人机交互，以及更广泛的媒介效果议题。相关研究成果发表于 <em>Technology in Society</em>、<em>Body Image</em>、<em>Journal of Information Technology &amp; Politics</em> 等 SSCI 期刊。</p>
+  <p>我的研究聚焦于人机传播，从社会、政治、文化的因素，综合考察 AIGC 说服、人机交互，以及更广泛的媒介效果议题。相关研究成果发表于 <em>Technology in Society</em>、<em>Body Image</em>、<em>Journal of Information Technology &amp; Politics</em> 等 SSCI 期刊。我也在<em>Public Understanding of Science</em>、<em>Humanities and Social Sciences Communications</em>等多本学术期刊中担任匿名审稿人。</p>
 
   <p>此外，我拥有 4 年校园媒体经历，署名发表约 50 篇新闻报道，曾担任南京大学「核真录」主编。</p>
 
