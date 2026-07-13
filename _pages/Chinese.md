@@ -25,13 +25,9 @@ redirect_from:
   width: 100%;
   height: 120px;
   overflow: hidden;
-  margin-bottom: 0 !important;
 }
 
 .apple-music-embed + p {
-  width: auto;
-  height: auto !important;
-  overflow: visible !important;
   margin-top: 0 !important;
 }
 </style>
