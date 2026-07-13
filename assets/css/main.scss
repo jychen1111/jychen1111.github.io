@@ -121,8 +121,8 @@ a:active {
 
 /* 默认英文 */
 body, .page__content {
-    font-size: 0.96rem !important;
-    line-height: 1.85 !important;
+    font-size: 0.95rem !important;
+    line-height: 1.8 !important;
 }
 
 /* 中文页面或中文段落 */
@@ -189,14 +189,14 @@ body, .page__content {
 /* 侧边栏 */
 .sidebar {
     float: left !important;
-    width: 20% !important;
+    width: 18% !important;
     min-width: 180px !important;
 }
 
 /* 正文 */
 .page {
     float: right !important;
-    width: 80% !important;
+    width: 72% !important;
 
     padding-left: 20px !important;
     padding-right: 20px !important;
