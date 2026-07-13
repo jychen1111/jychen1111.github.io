@@ -18,7 +18,7 @@ redirect_from:
         font-weight: 700;  /* 粗体 */
     }
   
-  .apple-music-embed {
+  .apple-music-embed+p {
   width: 100%;
   height: 120px;
   overflow: hidden;
