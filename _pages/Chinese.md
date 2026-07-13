@@ -49,4 +49,4 @@ redirect_from:
 
 我主要使用实验、计算文本分析等定量方法，辅以话语分析和访谈研究，欢迎与我交流 - jy.chen@sjtu.edu.cn
 
-</p>
+</div>
