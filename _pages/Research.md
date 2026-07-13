@@ -110,29 +110,6 @@ redirect_from:
 .abstract-details[open] ~ .abstract-panel {
   display: block;
 }
-
-/* Reference cards in dark mode */
-[data-theme="dark"] .reference-card {
-  background: rgba(31, 41, 55, 0.78);
-  border-color: rgba(148, 163, 184, 0.25);
-}
-
-[data-theme="dark"] .reference-card p,
-[data-theme="dark"] .reference-card strong,
-[data-theme="dark"] .reference-card em,
-[data-theme="dark"] .reference-card .abstract-panel {
-  color: #f8fafc !important;
-}
-
-[data-theme="dark"] .reference-card .abstract-panel {
-  background: #1f2937;
-  border-left-color: #2563eb;
-}
-
-[data-theme="dark"] .reference-card .abstract-details summary,
-[data-theme="dark"] .reference-card .publisher-link {
-  color: #60a5fa !important;
-}
 </style>
 
 
