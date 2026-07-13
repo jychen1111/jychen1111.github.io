@@ -110,7 +110,6 @@ redirect_from:
 .abstract-details[open] ~ .abstract-panel {
   display: block;
 }
-</style>
 
 /* Reference cards in dark mode */
 [data-theme="dark"] .reference-card {
@@ -134,6 +133,7 @@ redirect_from:
 [data-theme="dark"] .reference-card .publisher-link {
   color: #60a5fa !important;
 }
+</style>
 
 
 # Publications
