@@ -264,3 +264,12 @@ b {
   color: #2563eb;
 }
 
+@media (max-width: 800px) {
+  /* 让侧边栏及 Follow 菜单位于最上层 */
+  .sidebar,
+  .author__urls-wrapper,
+  .author__urls {
+    position: relative !important;
+    z-index: 9999 !important;
+  }
+
