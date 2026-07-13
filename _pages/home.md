@@ -54,7 +54,7 @@ Specifically, the research topics I am interested in include:
 
 I grew up with endless tests under the Chinese college entrance exam system and gained admission to Nanjing University. There, I was immersed in a rich intellectual atmosphere of literature, history, and philosophy, in which humanistic ethos has profoundly shaped my research sensibilities. On the other hand, I have been extensively involved in the practical training aspects of journalism. I served as the Editor-in-Chief of [*NJU FactCheck*](https://m.thepaper.cn/user_interaction_3358934), which was repeatedly recognized as an *Outstanding Data Content Creator* by *The Paper*. More importantly, I was fortunate to benefit from these practical experiences, cultivating an empirically oriented mindset within a humanistic academic environment as well.
 
-Through subsequent processes of academic trial and error, I was privileged to participate in an exchange program at **[Stanford's Social Media Lab](https://sml.stanford.edu/)** (online due to lockdown), further completed my undergraduate thesis at **[Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/)**, and finally secured direct admission to the graduate program at Shanghai Jiao Tong University.
+Through subsequent processes of academic trial and error, I was privileged to participate in an exchange program at **[Stanford Social Media Lab](https://sml.stanford.edu/)** (online due to lockdown), further completed my undergraduate thesis at **[Computational Communication Collaboratory](https://chengjun.github.io/socrateslab/)**, and finally secured direct admission to the graduate program at Shanghai Jiao Tong University.
 
 <div lang="zh-CN">
 
