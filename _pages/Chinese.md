@@ -26,7 +26,7 @@ redirect_from:
 <div lang="zh-CN">
   <h1>Hi，你好！</h1>
 
-  <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2ppuSHG7pDD8XfWam7sz76?utm_source=generator&theme=0" width="100%" height="100" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:100%;max-width:660px;overflow:hidden;background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/cn/album/%E6%B4%BB%E7%9D%80%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%AD%BB%E4%BA%A1/1051208546?i=1051208558"></iframe>
 
   <p>我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师为<a href="https://cfmhmc.github.io/yimou.github.io/"><strong>牟怡教授</strong></a>。我同时是<strong>未来媒体与人机传播实验室</strong>的一员。</p>
 
