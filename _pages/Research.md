@@ -61,7 +61,7 @@ redirect_from:
   padding: 0;
   border: 0;
   background: transparent;
-  color: #5f9b00 !important;
+  color: #2563eb !important;
   font-size: 0.88rem;
   font-weight: 700;
   line-height: 1.2;
@@ -89,7 +89,7 @@ redirect_from:
 
 .abstract-details summary:hover,
 .publisher-link:hover {
-  color: #5c6d3b !important;
+  color: #1d4ed8 !important;
   text-decoration: underline !important;
 }
 
@@ -99,9 +99,9 @@ redirect_from:
   box-sizing: border-box;
   margin: 0.1rem 0 0;
   padding: 0.85rem 1rem;
-  border-left: 3px solid #5f9b00;
+  border-left: 3px solid #2563eb;
   border-radius: 0 8px 8px 0;
-  background: #f5f8ee;
+  background: #eff6ff;
   color: #1f2937;
   font-size: 0.93rem;
   line-height: 1.65;
