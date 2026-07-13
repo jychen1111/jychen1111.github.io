@@ -63,7 +63,7 @@ redirect_from:
   background: transparent;
   color: #2563eb !important;
   font-size: 0.88rem;
-  font-weight: 700;
+  font-weight: 400;
   line-height: 1.2;
   text-decoration: none !important;
   cursor: pointer;
@@ -113,7 +113,7 @@ redirect_from:
 </style>
 
 
-# Peer-reviewed journal articles  
+# Publications
 
 <div class="reference-card">
   <p>
