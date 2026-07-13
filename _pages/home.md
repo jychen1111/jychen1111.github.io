@@ -27,7 +27,7 @@ My name is Junyi Chen. I am currently a third-year master’s student at Shangha
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 70 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
 <div lang="zh-CN">
-Hi，我是上海交通大学媒体与传播学院的研三学生，导师是[牟怡](https://cfmhmc.github.io/yimou.github.io/)教授。我的研究聚焦于人机传播，试图从社会、政治、文化的因素，综合考察AI说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
+Hi，我是上海交通大学媒体与传播学院的研三学生，导师是<a href="https://cfmhmc.github.io/yimou.github.io/"><strong>牟怡教授</strong></a>。我的研究聚焦于人机传播，试图从社会、政治、文化的因素，综合考察AI说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 jy.chen@sjtu.edu.cn ！
 </div>
 
 
@@ -59,7 +59,7 @@ Through subsequent processes of academic trial and error, I was privileged to pa
 
 <div lang="zh-CN">
 
-我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究底色。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任[南京大学《核真录》](https://m.thepaper.cn/user_interaction_3358934)的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中同样习得了实证的思维方式。
+我是所谓的“小镇做题家”出身，在无尽的题海战术里“上岸了”南京大学新闻传播学院。我在南大接受了浓烈的文、史、哲熏陶，这些人文气息构成了我的研究底色。另一方面，我广泛地参与新闻专业“采、写、编、评”的实践培养。我曾担任<a href="https://m.thepaper.cn/user_interaction_3358934/">南京大学《核真录》</a>的主编，期间，团队获评“澎湃新闻优质创作者”。更重要的是，我很幸运地从新闻实践中获益，在人文的氛围中同样习得了实证的思维方式。
 
 在后续的科研学习和试错中，我有幸地参加了美国斯坦福大学社交媒体实验室的交换，在南大的计算传播实验室完成大学本科的毕业论文，并来到上海交通大学。
 </div>
@@ -73,6 +73,10 @@ Through subsequent processes of academic trial and error, I was privileged to pa
 <div lang="zh-CN">
 
 - 在我建立三观的成年之初，新冠肺炎病毒爆发了。在隔离期间，我目睹了社交媒体上的科学、健康、社会、国际政治信息相互交织。由此，我对“公众对科学、技术的理解”抱有浓厚的兴趣，尤其是从社会、政治的角度加以考察。
+</div>
+
+
+<div lang="zh-CN">
 
 - 在我开始学习写本科毕业论文的时候，ChatGPT横空出世。作为一名“AI时代”的移民，我相信自己正亲身经历着一场重大的技术-社会变革。对于我，一个深受新闻传播学学科培养的研究者而言，我好奇人们具体如何和AI建立（或不建立）关系，背后存在何种心理机制。并且同样的，我关注“AI传播”背后的社会因素，例如数字鸿沟、观点极化，等等。
 
