@@ -16,7 +16,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#68a800; /* depart蓝 */
+        color:#2563eb; /* depart蓝 */
         font-weight: 700;  /* 粗体 */
         font-style: italic;
     }
@@ -113,7 +113,7 @@ redirect_from:
 </style>
 
 
-# Publications
+# Peer-reviewed journal articles
 
 <div class="reference-card">
   <p>
