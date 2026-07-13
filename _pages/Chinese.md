@@ -21,7 +21,7 @@ redirect_from:
         font-style: italic;
     }
 
-.apple-music-embed {
+.apple-music-embed + p {
   width: 100%;
   height: 120px;
   overflow: hidden;
