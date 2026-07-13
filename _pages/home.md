@@ -25,8 +25,16 @@ redirect_from:
 }
 </style>
 
-
-<iframe allow="autoplay *; encrypted-media *;" frameborder="0" height="150" style="width:125%;max-width:none;overflow:hidden;transform:scale(0.8);transform-origin:top left;"; background:transparent;" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation" src="https://embed.music.apple.com/tw/album/%E6%97%85%E8%A1%8C%E7%9A%84%E6%84%8F%E4%B9%89/818133884?i=818133904=zh-TW"></iframe>
+<div class="apple-music-embed">
+  <iframe
+    allow="autoplay *; encrypted-media *;"
+    frameborder="0"
+    height="150"
+    style="width:125%;max-width:none;overflow:hidden;background:transparent;transform:scale(0.8);transform-origin:top left;"
+    sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
+    src="https://embed.music.apple.com/tw/album/%E6%B4%BB%E7%9D%80%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%AD%BB%E4%BA%A1/1051208546?i=1051208558&l=zh-TW">
+  </iframe>
+</div>
 
 My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–machine communication and examines AI persuasion, human-computer interaction, and broader media effects from social and political perspectives. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
 
