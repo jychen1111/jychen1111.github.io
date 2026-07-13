@@ -105,7 +105,7 @@ h1, h2, h3, h4, h5, h6,
    /* 设置所有超链接为中等海绿色 #3CB371 */
 
 a {
-  color: #5f9b00;; // Medium Sea Green
+  color: #2563eb;; // Medium Sea Green
   text-decoration: none;
   transition: color 0.2s ease;
 }
@@ -113,7 +113,7 @@ a {
 a:hover,
 a:focus,
 a:active {
-  color: #5c6d3b; // Sea Green（悬停时更深的绿色）
+  color: #1d4ed8; （悬停时更深）
   text-decoration: underline;
 }
 
