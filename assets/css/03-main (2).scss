@@ -1,0 +1,209 @@
+---
+---
+
+/*
+ * This file controls what is imported from /_sass
+ *
+ * Note that the files are processed in the order they are imported, so they are partly
+   sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
+ */
+
+@import
+    "vendor/breakpoint/breakpoint",
+
+    "themes",
+    "theme/default",
+    "theme/dark",
+
+    "include/mixins",
+    "vendor/susy/susy",
+
+    "layout/reset",
+    "layout/base",
+
+    "include/utilities",
+    "layout/tables",
+    "layout/buttons",
+    "layout/notices",
+    "layout/masthead",
+    "layout/navigation",
+    "layout/footer",
+    "syntax",
+
+    "layout/forms",
+
+    "layout/page",
+    "layout/archive",
+    "layout/sidebar",
+
+    "vendor/font-awesome/fontawesome",
+    "vendor/font-awesome/solid",
+    "vendor/font-awesome/brands",
+    "vendor/magnific-popup/magnific-popup"
+;
+
+/*
+ * Typography
+ * STSong is preferred for both Chinese and English text. Songti SC and
+ * SimSun provide Chinese fallbacks; Times New Roman is the final Latin fallback.
+ */
+body,
+button,
+input,
+select,
+textarea,
+h1, h2, h3, h4, h5, h6,
+.masthead,
+.greedy-nav,
+.page__title,
+.page__content,
+.archive__item-title,
+.author__name,
+.author__bio,
+.author__pronouns,
+.author__urls-wrapper {
+  font-family: STSong, "Songti SC", SimSun, "Times New Roman", serif !important;
+}
+
+/*
+ * Keep header links available when Greedy Nav moves them into its overflow
+ * list. This matters on the Chinese page, where the menu could otherwise
+ * collapse to the theme toggle alone.
+ */
+.greedy-nav .hidden-links {
+  position: static;
+  display: table !important;
+  visibility: visible !important;
+  margin: 0;
+  padding: 0;
+  border: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.greedy-nav .hidden-links li {
+  display: table-cell;
+  border: 0;
+}
+
+.greedy-nav .hidden-links a {
+  margin: 0 1rem;
+  padding: 0.5rem 0;
+}
+
+.greedy-nav button {
+  display: none !important;
+}
+
+/* The site title duplicates the About Junyi navigation link. */
+.greedy-nav .visible-links > li:first-child {
+  display: none !important;
+}
+
+
+   /* 设置所有超链接为中等海绿色 #3CB371 */
+
+a {
+  color: #5f9b00;; // Medium Sea Green
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover,
+a:focus,
+a:active {
+  color: #5c6d3b; // Sea Green（悬停时更深的绿色）
+  text-decoration: underline;
+}
+
+/* 1. 正文段落和列表变小 */
+body, p, li, .page__content {
+    font-size: 0.90rem !important; /* 推荐先试 0.95，0.9可能太小 */
+    line-height: 1.8 !important;   /* 字小了，行高要稍微大点才好读 */
+}
+
+
+
+/* --- 侧边栏精准控制 (Based on Screenshot) --- */
+
+/* 1. 简介文字 (Master's student) 和 代词 */
+.author__bio, 
+.author__pronouns,
+.sidebar p,
+.sidebar li {
+    font-size: 12px !important;  /* 这里的数值你可以随便调 */
+    line-height: 1.5 !important;
+}
+
+/* 2. 侧边栏底部的所有链接 (Email, Github等) */
+.author__urls-wrapper li, 
+.author__urls-wrapper li a, 
+.author__urls-wrapper span,
+.author__urls-wrapper .author__desktop {
+    font-size: 12px !important;
+    line-height: 1.5 !important; 
+}
+
+/* Override the theme's sans-serif rule on individual sidebar links. */
+.author__urls-wrapper,
+.author__urls-wrapper li,
+.author__urls-wrapper li a,
+.author__urls-wrapper span,
+.author__urls-wrapper .author__desktop {
+    font-family: STSong, "Songti SC", SimSun, "Times New Roman", serif !important;
+}
+
+/* 3. 你的大名 (Tanya Junyi Chen...) */
+/* 名字通常要比简介大一点，不然不好看 */
+.author__name {
+    font-size: 15px !important; /* 原来可能很大，改小一点 */
+}
+
+/* 4. (可选) 让那个学校的图标也变小一点，保持协调 */
+.author__urls-wrapper i {
+    font-size: 12px !important;
+    width: 16px !important; /* 调整图标占位宽度，防止太宽 */
+}
+
+
+
+/* --- 🚀 更宽布局优化版 --- */
+
+/* 总宽度 */
+#main, .initial-content {
+    max-width: 1300px !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+    overflow: hidden !important;
+}
+
+/* 侧边栏 */
+.sidebar {
+    float: left !important;
+    width: 18% !important;
+    min-width: 180px !important;
+}
+
+/* 正文 */
+.page {
+    float: right !important;
+    width: 82% !important;
+
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+
+    margin-right: 0 !important;
+}
+
+/* 🚨 关键：解除内部限宽 */
+.page__inner-wrap {
+    max-width: 100% !important;
+}
+
+/* 手机端 */
+@media (max-width: 800px) {
+    .sidebar, .page {
+        float: none !important;
+        width: 100% !important;
+    }
+}
