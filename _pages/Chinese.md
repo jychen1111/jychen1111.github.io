@@ -42,7 +42,7 @@ redirect_from:
     allow="autoplay *; encrypted-media *;"
     frameborder="0"
     height="150"
-    style="width:125%;max-width:660px;overflow:hidden;background:transparent;transform:scale(0.8);transform-origin:top left;"
+    style="width:125%;max-width:800px;overflow:hidden;background:transparent;transform:scale(0.8);transform-origin:top left;"
     sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-storage-access-by-user-activation allow-top-navigation-by-user-activation"
     src="https://embed.music.apple.com/tw/album/%E6%B4%BB%E7%9D%80%E6%98%AF%E6%9C%80%E5%A5%BD%E7%9A%84%E6%AD%BB%E4%BA%A1/1051208546?i=1051208558&l=zh-TW">
   </iframe>
