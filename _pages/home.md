@@ -65,9 +65,9 @@ My research focuses on three keywords: *Politics*, *Technology*, and *Informatio
 
 ### Topics
 Specifically, the research topics I am interested in include:
-- the politicization of science and technology on social media;
-- AI-powered information seeking and consumption;
-- influence of specific types of information behavior (e.g., mortality or stress disclosure).
+- AI's role in political communication;
+- Information seeking, consumption and processing influenced by digital technology;
+- Public politicized understanding of science and technology.
   
 ------
 
