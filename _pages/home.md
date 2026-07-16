@@ -41,7 +41,7 @@ redirect_from:
 </div>
 
 
-My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human–AI communication and examines AIGC, human-computer interaction, and broader media effects from social and political perspectives. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
+My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. My research centers on human-machine communication and examines AIGC, human-computer interaction, and broader media effects from social and political perspectives. My work has been published in leading SSCI journals such as *Technology in Society* and *Journal of Information Technology & Politics*.
 
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 70 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
