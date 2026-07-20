@@ -187,7 +187,7 @@ redirect_from:
    
 1. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Reject & Resubmit*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
 
-2. **Chen, J.**, Zeng, W., & Mou, Y. (*Revise & Resubmit*). Apolitical Referee or Geopolitical Actor? Investigating the Nationality Effect on the Perceived Credibility of Politicized AI-Generated Science Messages.
+2. **Chen, J.**, Zeng, W., & Mou, Y. (*Revise & Resubmit*). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication
 
 3. **Chen, J.**, Zhu, L., & Li, X. (*Under Review*). How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect.
 
