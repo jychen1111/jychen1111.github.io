@@ -193,7 +193,7 @@ redirect_from:
 
 ***
 
-# Selected Conference paper
+# Selected conference paper
 
 <!-- 1. **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA.--> 
 
