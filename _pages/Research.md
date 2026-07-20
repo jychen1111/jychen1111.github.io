@@ -193,31 +193,31 @@ redirect_from:
 
 ***
 
-# Conference paper
+# Selected Conference paper
 
-1. **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+<!-- 1. **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA.--> 
 
-2. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Machine Authorship in the Out-Group? Investigating the Nationality Effect on the Perceived Credibility of (Un)politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+<!-- 2. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Machine Authorship in the Out-Group? Investigating the Nationality Effect on the Perceived Credibility of (Un)politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. --> 
 
-3. **Chen, J.**, Zhu, L., & Li, X. (2026, August). Novel Hard News or Stilted Soft News? How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+<!-- 3. **Chen, J.**, Zhu, L., & Li, X. (2026, August). Novel Hard News or Stilted Soft News? How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. --> 
 
-4. **Chen, J.**, Chen, J., & Li, X. (2026, August). Harvesting Legitimacy and Avoiding Risk: Strategic Coupling of Political and Scientific Discourses in Chinese Media. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. 
+<!-- 4. **Chen, J.**, Chen, J., & Li, X. (2026, August). Harvesting Legitimacy and Avoiding Risk: Strategic Coupling of Political and Scientific Discourses in Chinese Media. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. --> 
 
 5. **Chen, J.** (2025, August). Algorithmic Dating while Artificially Vet Political Profiles? Moderation Effects of Dating Motivations Types. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
 
-6. **Chen, J.** (2025, August). COVID-19 or Pandemic? How Scientific and Political Discourse in Chinese National Media Constructs Memory of The Influenza Epidemic (2019-2023). *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
+<!-- 6. **Chen, J.** (2025, August). COVID-19 or Pandemic? How Scientific and Political Discourse in Chinese National Media Constructs Memory of The Influenza Epidemic (2019-2023). *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.--> 
 
-7. Zeng, W., & **Chen, J.** (2025, August). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.
+<!-- 7. Zeng, W., & **Chen, J.** (2025, August). "Love Over Fear": How Nostalgic Popular Songs and Relationship Types Buffer Death Anxiety. *Paper presented at the 108th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, San Francisco, California, USA.--> 
 
 8. **Chen, J.** (2025, July). Unpacking the Blackbox of Uncanny Valley: Examining the Desirable Effect of Eerie AIGC Images in Persuasion. *Paper presented at the 60th Anniversary of the School of Journalism and Communication of The Chinese University of Hong Kong (CUHK) and Postgraduate Student Conference*, Hong Kong.
 
 9. Mou, Y., **Chen, J.**, & Dai, F. (2025, June). Racing between Machine Heuristics and Authority Heuristics: The Effect of AI Sources on Correcting Scientific Misinformation in Fact-checking and Rumor-debunking. *Paper presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.
 
-10. **Chen, J.**, Dai, F., & Mou, Y. (2025, June). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.
+<!-- 10. **Chen, J.**, Dai, F., & Mou, Y. (2025, June). AI Fact-checking or rumor-debunking? Assessing the Impact of Source, Genre Type, and Heuristic Thinking on Correction Credibility. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.--> 
 
-11. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (2025, June). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.
+<!-- 11. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (2025, June). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.--> 
 
-12. Zeng, W., **Chen, J.**, & Wen, N. (2025, June). Mortality or Freedom? Integrating Terror Management Health Model and Psychological Reactance to Promote Successful Aging. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA.
+<!-- 12. Zeng, W., **Chen, J.**, & Wen, N. (2025, June). Mortality or Freedom? Integrating Terror Management Health Model and Psychological Reactance to Promote Successful Aging. *Paper to be presented at the 75th Annual International Communication Association Conference (ICA)*, Denver, Colorado, USA. --> 
 
 13. Zeng, W., **Chen, J.**, Wen, N., & Zhou, Y. (2024, November)."Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. *Paper presented at the 110th Annual Conference of National Communication Association (NCA)*, New Orleans, LA, USA.
 
@@ -225,7 +225,7 @@ redirect_from:
 
 15. Yan, X. F., **Chen, J.**, Zhang, Y., Yan, L., & Wang, C. J. (2024, July). Is Media More Beneficial for Common Life? Media, Behavioral Commonness, and Subjective Well-being. *Paper presented at the 26th Annual Conference of International Association for Media and Communication Research (IAMCR)*, Christchurch, New Zealand.
 
-16. **Chen, J.**, & Chen, Y. (2024, July). Embedded Empowerment: How China's Sexual Minorities Use Online Participatory Media to Struggle for Visibility. *Paper presented at the 26th Annual Conference of International Association for Media and Communication Research (IAMCR), Christchurch*, New Zealand.
+<!-- 16. **Chen, J.**, & Chen, Y. (2024, July). Embedded Empowerment: How China's Sexual Minorities Use Online Participatory Media to Struggle for Visibility. *Paper presented at the 26th Annual Conference of International Association for Media and Communication Research (IAMCR), Christchurch*, New Zealand.--> 
 
 17. Dai, F., & **Chen, J.** (2024, June). Fact-checking is fact-checking? A comparative analysis of four Chinese fact-checking organizations. *Paper presented at the 74th Annual International Communication Association Conference (ICA)*, Gold Coast, Australia.
 
