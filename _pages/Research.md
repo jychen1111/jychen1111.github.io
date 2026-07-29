@@ -123,7 +123,7 @@ redirect_from:
     <details class="abstract-details">
       <summary>ABSTRACT</summary>
     </details>
-    <a href="https://journals.sagepub.com/home/pus" target="_blank" rel="noopener noreferrer" class="publisher-link">View at Publisher</a>
+    # <a href="https://journals.sagepub.com/home/pus" target="_blank" rel="noopener noreferrer" class="publisher-link">View at Publisher</a>
     <p class="abstract-panel">Amid the politicization of science and the globalization of technological applications, does the national-origin label of AI authors affect its perceived credibility? Drawing on the tension between AI as an apolitical referee (machine heuristic) and AI as a geopolitical actor like humans (social identity theory and computers-are-social-actors paradigm), two online experiments were conducted in China to examine the role of author type (human, AI, and human-AI hybrid) and national-origin labels in scientific content with varying degrees of politicization. In a highly politicized context, domestic sources were preferred across all author types, with nationalism amplifying this preference. The effect of AI’s national-origin label was significant but weaker than that for human authors. In low-politicized contexts, the national-origin label no longer significantly affected AI credibility, while foreign humans were perceived as more credible. These findings highlight the intersecting dynamics of the scientific politicization and the public politicized understanding of AI technology.</p>
   </div>
 </div>
