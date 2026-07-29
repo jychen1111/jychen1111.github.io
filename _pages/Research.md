@@ -214,7 +214,7 @@ redirect_from:
 
 # Selected conference paper
 
-<!-- 1. **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA.--> 
+- **Chen, J.**, & Wu, T.-Y. (2026, August). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA.
 
 <!-- 2. **Chen, J.**, Zeng, W., & Mou, Y. (2026, August). Machine Authorship in the Out-Group? Investigating the Nationality Effect on the Perceived Credibility of (Un)politicized AI-Generated Science Messages. *Paper to be presented at the 109th Annual Conference of the Association for Education in Journalism and Mass Communication (AEJMC)*, New Orleans, Louisiana, USA. --> 
 
