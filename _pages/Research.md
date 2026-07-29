@@ -117,6 +117,20 @@ redirect_from:
 
 <div class="reference-card">
   <p>
+    6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y. (2026, forthcoming). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication. <i>Public Understanding of Science</i> <strong> (Q1 2/111)</strong>.
+  </p>
+  <div class="article-actions">
+    <details class="abstract-details">
+      <summary>ABSTRACT</summary>
+    </details>
+    <a href="https://journals.sagepub.com/home/pus" target="_blank" rel="noopener noreferrer" class="publisher-link">View at Publisher</a>
+    <p class="abstract-panel">Amid the politicization of science and the globalization of technological applications, does the national-origin label of AI authors affect its perceived credibility? Drawing on the tension between AI as an apolitical referee (machine heuristic) and AI as a geopolitical actor like humans (social identity theory and computers-are-social-actors paradigm), two online experiments were conducted in China to examine the role of author type (human, AI, and human-AI hybrid) and national-origin labels in scientific content with varying degrees of politicization. In a highly politicized context, domestic sources were preferred across all author types, with nationalism amplifying this preference. The effect of AI’s national-origin label was significant but weaker than that for human authors. In low-politicized contexts, the national-origin label no longer significantly affected AI credibility, while foreign humans were perceived as more credible. These findings highlight the intersecting dynamics of the scientific politicization and the public politicized understanding of AI technology.</p>
+  </div>
+</div>
+
+
+<div class="reference-card">
+  <p>
     5. <strong>Chen, J.</strong>, Dai, F., Mou, Y. (2026). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>.
   </p>
   <div class="article-actions">
@@ -187,9 +201,7 @@ redirect_from:
    
 1. Yan, X. F., **Chen, J.**, Chen, Z., & Wang, C. J. (*Reject & Resubmit*). Is a Diverse and Different Life a Happier Life? Analyzing Digital Media's Impact on Subjective Well-being.
 
-2. **Chen, J.**, Zeng, W., & Mou, Y. (*Revise & Resubmit*). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication
-
-3. **Chen, J.**, Zhu, L., & Li, X. (*Under Review*). How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect.
+2. **Chen, J.**, Zhu, L., & Li, X. (*Under Review*). How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect.
 
 ***
 
