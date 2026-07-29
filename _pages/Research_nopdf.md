@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /Research/
+permalink: /other/
 author_profile: true
 redirect_from:
   - /Research
