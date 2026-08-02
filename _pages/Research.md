@@ -119,7 +119,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y. (2026, forthcoming). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication. <i>Public Understanding of Science</i> <strong> (Q1 2/111)</strong>.
+    6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y. (2026, forthcoming). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication. <i>Public Understanding of Science</i> <strong> (Q1 2/111)</strong>. [非政治的中立裁判，还是地缘政治行动者？人工智能的国籍标签如何影响政治化科学传播的可信度]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
@@ -133,7 +133,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    5. <strong>Chen, J.</strong>, Dai, F., Mou, Y. (2026). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>.
+    5. <strong>Chen, J.</strong>, Dai, F., Mou, Y. (2026). AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation. <i>Journal of Broadcasting & Electronic Media</i> <strong> (Q2 57/227)</strong>. [AI宣称权威：信息来源和纠正策略如何影响打击不实资讯时的可信度]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
@@ -148,7 +148,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    4. Zeng, W., & <strong>Chen, J.*</strong> (2026, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication, 41</i>(6), 1063–1073 <strong> (Q1 37/227)</strong>.
+    4. Zeng, W., & <strong>Chen, J.*</strong> (2026, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication, 41</i>(6), 1063–1073 <strong> (Q1 37/227)</strong>. [真爱无惧：怀旧音乐何以在不同的关系类型中纾解死亡焦虑]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
@@ -162,7 +162,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    3. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15 <strong> (Q1 46/227)</strong>.
+    3. <strong> Chen, J.</strong>, & Mou, Y. (2025). Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience. <i>Journal of Information Technology & Politics</i>, 1-15 <strong> (Q1 46/227)</strong> [在爱与政治间信任算法：算法信念、对伴侣的政治审查、约会动机类型与情感体验]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
@@ -176,7 +176,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    2. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985 <strong>(Q1 17/223)</strong>.
+    2. Zeng, W., <strong> Chen, J.</strong>, Zhou, Y.-X., & Wen, N. (2025). "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity. <i>Body Image, 55</i>, 101985 <strong>(Q1 17/223)</strong> [美丽无界限：探索身材和内容焦点对女性身体积极性的影响]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
@@ -190,7 +190,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032<strong> (Q1 1/273)</strong>.
+    1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y. (2025). Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC. <i>Technology in Society, 83</i>, 103032<strong> (Q1 1/273)</strong> [民族主义遇上机器启发式：探索AI的“国籍”对AIGC感知可信度的影响]
   </p>
   <div class="article-actions">
     <details class="abstract-details">
