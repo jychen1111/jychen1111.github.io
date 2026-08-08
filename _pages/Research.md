@@ -156,7 +156,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    4. Zeng, W., & <strong>Chen, J.*</strong> (2026, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication, 41</i>(6), 1063–1073 <strong> (Q1 37/227)</strong>.  <span class="zh-title" lang="zh-CN">[真爱无惧：怀旧音乐何以在不同的关系类型中纾解死亡焦虑]</span>
+    4. Zeng, W., & <strong>Chen, J.*</strong> (2026, <strong>corresponding author</strong>). "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety. <i>Health Communication, 41</i>(6), 1063-1073 <strong> (Q1 37/227)</strong>.  <span class="zh-title" lang="zh-CN">[真爱无惧：怀旧音乐何以在不同的关系类型中纾解死亡焦虑]</span>
   </p>
   <div class="article-actions">
     <details class="abstract-details">
