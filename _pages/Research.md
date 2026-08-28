@@ -125,7 +125,7 @@ redirect_from:
 
 <div class="reference-card">
   <p>
-    6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y. (2026, forthcoming). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication. <i>Public Understanding of Science</i> <strong> (Q1 2/111)</strong>. 
+    6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y. (2026). Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication. <i>Public Understanding of Science</i> <strong> (Q1 2/111)</strong>. 
     <span class="zh-title" lang="zh-CN">[非政治的中立裁判，还是地缘政治行动者？人工智能的国籍标签如何影响政治化科学传播的可信度]</span>
   </p>
   <div class="article-actions">
