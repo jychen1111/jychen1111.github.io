@@ -219,7 +219,7 @@ redirect_from:
 
 2. **Chen, J.**, Zhu, L., & Li, X. (*Under Review*). How AI Authorship Shapes News Avoidance and the “News-Finds-Me” Effect.
 
-3. **Chen, J.**, & Wu, T.-Y. (*In submission*). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions.
+3. **Chen, J.**, & Wu, T.-Y. (*Revise & Resubmit*). Unveiling AI’s Environmental Costs to the Public: Psychological Distance, Source, and Usage Context in Norm Activation and Sustainable Intentions.
 
 ***
 
