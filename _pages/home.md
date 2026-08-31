@@ -66,7 +66,9 @@ Hi，我是陈俊沂。我就读于上海交通大学媒体与传播学院，现
 My research focuses on three keywords: *Politics*, *Technology*, and *Information Behavior*. These lead to my main research themes:
 
 - AI as a political actor;
+  
 - Information seeking, consumption and processing influenced by digital technology
+  
 ------
 
 ### More about me
