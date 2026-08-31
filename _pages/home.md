@@ -14,7 +14,7 @@ redirect_from:
 
     /* 保留：为你名字创建的专属样式 */
     .my-name {
-        color:#5f9b00; /* shiwen Blue */
+        color:#2563eb;
         font-weight: 700;  /* 粗体 */
     }
   
@@ -41,7 +41,7 @@ redirect_from:
 </div>
 
 
-My name is Junyi Chen. I am currently a third-year master’s student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. 
+My name is Junyi Chen. I am currently a first-year Ph.D. student at Shanghai Jiao Tong University, affiliated with the **[Center for Future Media & Human-Machine Communication](https://cfmhmc.github.io/)** in the School of Media and Communication, and advised by **[Prof. Yi Mou](https://cfmhmc.github.io/yimou.github.io/)**. 
 
 My research centers on human-machine communication and examines <span class="keyword-blue">AIGC, human-computer interaction, and broader media effects from socio-political perspectives</span>. My work has been published in leading SSCI journals such as *Technology in Society*, *Public Understanding of Science* and *Journal of Information Technology & Politics*.
 
