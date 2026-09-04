@@ -48,11 +48,11 @@ redirect_from:
   </iframe>
 </div>
 
-  <p>我是陈俊沂，是上海交通大学媒体与传播学院的研三学生，导师是<a href="https://cfmhmc.github.io/yimou.github.io/">牟怡教授</a>。我同时是<span class="keyword-blue">未来媒体与人机传播实验室</span>的一员。</p>
+  <p>我是陈俊沂，就读于上海交通大学媒体与传播学院，今年博一。我的导师是<a href="https://cfmhmc.github.io/yimou.github.io/">牟怡教授</a>。我同时是<span class="keyword-blue">未来媒体与人机传播实验室</span>的一员。</p>
     
   <p>我的研究主要围绕<span class="keyword-blue">人机传播</span>和<span class="keyword-blue">政治传播</span>开展。具体来说，我的兴趣是从社会心理的角度出发，探讨新兴媒介技术如何影响政治相关的信息搜寻、摄取、信任和参与；尤其是人工智能驱动的新闻报道、虚假信息、纠正信息和内容审核等。我希望我的研究能够推动传播技术更好地融入社会政治、和科学、健康、环境风险沟通中，并帮助利益相关方制定有效的传播策略。</p>
 
-  <p>我曾在南京大学取得新闻学学士学位，导师是<a href="https://chengjun.github.io/">王成军教授</a>。<!-- 我也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。--> </p>
+  <p>我的传播学硕士学位也在上海交通大学媒体与传播学院获得。我曾在南京大学取得新闻学学士学位，导师是<a href="https://chengjun.github.io/">王成军教授</a>。<!-- 我也曾先后在斯坦福社交媒体实验室（2022，因疫情线上）和台湾阳明交通大学的传播研究所交换（2025）学习。--> </p>
 
   <p>我在顶尖国际期刊上发表了多篇研究成果，包括《社会中的技术》（<em>Technology in Society</em>）、《公众对科学的理解》（<em>Public Understanding of Science</em>）、《信息技术与政治学刊》（<em>Journal of Information Technology &amp; Politics</em>）、《健康传播》（<em>Health Communication</em>）、《广播与电子媒介学刊》（<em>Journal of Broadcasting & Electronic Media</em>）等。我也为<em>Public Understanding of Science</em>、<em>Humanities and Social Sciences Communications</em> 等多本学术期刊匿名审稿。</p>
 
