@@ -57,11 +57,7 @@ Hi，我是陈俊沂。我就读于上海交通大学媒体与传播学院，现
 - Ph.D. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2026–Present (Expected 2030)
 - M.A. in Communication, Shanghai Jiao Tong University, Shanghai, China, 2023-2026
 - B.A. in Journalism, Nanjing University, Nanjing, China, 2019-2023
- 
-***
 
-- Exchange Student, Institute of Communication Studies, Taiwan Yang Ming Chiao Tung University, Aug 2025 – Jan 2026)
-- Exchange Student, Social Media Lab, Stanford University, Feb–Jul 2022 (online due to the pandemic)
 
 ## Research Interest
 My research focuses on three keywords: *Politics*, *Technology*, and *Information Behavior*. These lead to my main research themes:
