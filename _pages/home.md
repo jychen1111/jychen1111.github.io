@@ -48,7 +48,7 @@ My research centers on human-machine communication and examines <span class="key
 Outside academia, I am an avid live music enthusiast. Since 2023, I have attended around 70 live music shows. Tanya Chua is my favorite singer from Singapore, which is also the origin of my English name.
 
 <div lang="zh-CN">
-Hi，我是陈俊沂。我就读于上海交通大学媒体与传播学院，现在研三，导师是<a href="https://cfmhmc.github.io/yimou.github.io/">牟怡教授</a>。我的研究聚焦于人机传播，试图从<span class="keyword-blue">社会、政治、文化</span>的因素，综合考察 AI 说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 <span class="keyword-blue">jy.chen@sjtu.edu.cn</span>！
+Hi，我是陈俊沂。我就读于上海交通大学媒体与传播学院，现在博士一年级，导师是<a href="https://cfmhmc.github.io/yimou.github.io/">牟怡教授</a>。我的研究聚焦于人机传播，试图从<span class="keyword-blue">社会、政治、文化</span>的因素，综合考察 AI 说服、人机互动，以及更广泛的媒介效果议题。欢迎和我联系 <span class="keyword-blue">jy.chen@sjtu.edu.cn</span>！
 </div>
 
 
