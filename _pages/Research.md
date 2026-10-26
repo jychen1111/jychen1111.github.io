@@ -48,7 +48,7 @@ redirect_from:
 }
 .reference-card .corresponding-note {
   font-size: 0.85em;
-  font-weight: 400;
+  font-weight: 700;
 }
 .abstract-details summary:focus-visible,
 .publisher-link:focus-visible,
