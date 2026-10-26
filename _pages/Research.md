@@ -308,7 +308,7 @@ redirect_from:
   <div class="paper-content">
   <p class="paper-authors"><strong>Chen, J.</strong>, Zeng, W., & Mou, Y.</p>
   <h2 class="paper-title">Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC</h2>
-  <p class="paper-meta"><i>Technology in Society, 83</i>, 103032 · 2025 · Q1 1/273</p>
+  <p class="paper-meta"><i>Technology in Society, 83</i>, 103032 · 2025 · Q1 1/275</p>
   <p class="paper-translation" lang="zh-CN">民族主义遇上机器启发式：探索AI的“国籍”对AIGC感知可信度的影响</p>
   <div class="article-actions">
     <details class="abstract-details">
