@@ -181,13 +181,40 @@ redirect_from:
   font-weight: 400 !important;
   line-height: 1.5;
 }
+
+/* Independent numbering column; all citation content shares one left edge. */
+.reference-card {
+  display: grid;
+  grid-template-columns: 1.5rem minmax(0, 1fr);
+  column-gap: 0.7rem;
+  align-items: start;
+}
+.reference-card .paper-number {
+  color: #777;
+  font-family: inherit;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.6;
+  font-variant-numeric: tabular-nums;
+}
+.reference-card .paper-content {
+  min-width: 0;
+}
+@media (max-width: 600px) {
+  .reference-card {
+    grid-template-columns: 1.1rem minmax(0, 1fr);
+    column-gap: 0.45rem;
+  }
+}
 </style>
 
 
 # Peer-reviewed journal articles
 
 <div class="reference-card">
-  <p class="paper-authors">6. <strong>Chen, J.</strong>, Zeng, W., Mou, Y.</p>
+  <span class="paper-number">6.</span>
+  <div class="paper-content">
+  <p class="paper-authors"><strong>Chen, J.</strong>, Zeng, W., Mou, Y.</p>
   <h2 class="paper-title">Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication</h2>
   <p class="paper-meta"><i>Public Understanding of Science</i> · 2026 · Q1 2/111</p>
   <p class="paper-translation" lang="zh-CN">非政治的中立裁判，还是地缘政治行动者？人工智能的国籍标签如何影响政治化科学传播的可信度</p>
@@ -199,11 +226,14 @@ redirect_from:
       <a href="{{ base_path }}/files/papers/PUS_Apolitical_referee.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">Amid the politicization of science and the globalization of technological applications, does the national-origin label of AI authors affect their perceived credibility? Drawing on the tension between AI as an apolitical referee (machine heuristic) and AI as a geopolitical actor like humans (social identity theory and computers-are-social-actors paradigm), two online experiments were conducted in China to examine the role of author type (human, AI, and human-AI hybrid) and national-origin labels in scientific content with varying degrees of politicization. In a highly politicized context, domestic sources were preferred across all author types, with nationalism amplifying this preference. The effect of AI’s national-origin label was significant but weaker than that for human authors. In low-politicized contexts, the national-origin label no longer significantly affected AI credibility, while foreign humans were perceived as more credible. These findings highlight the intersecting dynamics of the scientific politicization and the public politicized understanding of AI technology.</p>
   </div>
+  </div>
 </div>
 
 
 <div class="reference-card">
-  <p class="paper-authors">5. <strong>Chen, J.</strong>, Dai, F., Mou, Y.</p>
+  <span class="paper-number">5.</span>
+  <div class="paper-content">
+  <p class="paper-authors"><strong>Chen, J.</strong>, Dai, F., Mou, Y.</p>
   <h2 class="paper-title">AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation</h2>
   <p class="paper-meta"><i>Journal of Broadcasting & Electronic Media</i> · 2026 · Q2 57/227</p>
   <p class="paper-translation" lang="zh-CN">AI宣称权威：信息来源和纠正策略如何影响打击不实资讯时的可信度</p>
@@ -215,11 +245,14 @@ redirect_from:
     <a href="{{ base_path }}/files/papers/JBEM_AI_Claims_Authority.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">AI has been increasingly deployed to combat misinformation, yet its credibility remains contested, partly due to overlooking the factor of corrective strategies. This study addresses this gap by conducting a 3 (source: human vs. AI vs. human-AI hybrid) × 2 (corrective strategy: evidence-based vs. authority-based) × 2 (topic: social vs. scientific) mixed-design experiment. Results showed that AI adopting authority-based strategies was associated with decreased credibility, while stronger machine heuristic beliefs and authoritarian personality mitigated this negative effect for AI and hybrid sources. Findings highlight the confounding role of corrective strategies in AI credibility scholarship, offering implications for automated misinformation correction.</p>
   </div>
+  </div>
 </div>
 
 
 <div class="reference-card">
-  <p class="paper-authors">4. Zeng, W., & <strong>Chen, J.*</strong> <span class="corresponding-note">(corresponding author)</span></p>
+  <span class="paper-number">4.</span>
+  <div class="paper-content">
+  <p class="paper-authors">Zeng, W., & <strong>Chen, J.*</strong> <span class="corresponding-note">(corresponding author)</span></p>
   <h2 class="paper-title">"Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety</h2>
   <p class="paper-meta"><i>Health Communication, 41</i>(6), 1063-1073 · 2026 · Q1 37/227</p>
   <p class="paper-translation" lang="zh-CN">真爱无惧：怀旧音乐何以在不同的关系类型中纾解死亡焦虑</p>
@@ -231,10 +264,13 @@ redirect_from:
     <a href="{{ base_path }}/files/papers/HC_Love_Over_Fear.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">The fear of death is a fundamental human anxiety. From the perspective of terror management theory (TMT), this study examines the potential of music to alleviate death anxiety. We conducted a 2 (salience: mortality vs. control) × 2 (song type: nostalgic vs. non-nostalgic) × 2 (relationship type: romantic vs. parent-child) between-subjects factorial experiment with 335 middle-aged participants (ages 35-40) who were married, had children, and had living parents. Multiple interaction effects among mortality salience, nostalgia, and relationship type indicated that romantic songs, especially nostalgic romantic songs, were more effective in reducing death anxiety than parent-child relationship songs. The findings highlight the defensive function of romantic relationship songs within the TMT framework, offering new insights for clinical interventions and public mental health practices aimed at managing death anxiety.</p>
   </div>
+  </div>
 </div>
 
 <div class="reference-card">
-  <p class="paper-authors">3. <strong>Chen, J.</strong>, & Mou, Y.</p>
+  <span class="paper-number">3.</span>
+  <div class="paper-content">
+  <p class="paper-authors"><strong>Chen, J.</strong>, & Mou, Y.</p>
   <h2 class="paper-title">Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience</h2>
   <p class="paper-meta"><i>Journal of Information Technology & Politics</i>, 1-15 · 2025 · Q1 46/227</p>
   <p class="paper-translation" lang="zh-CN">在爱与政治间信任算法：算法信念、对伴侣的政治审查、约会动机类型与情感体验</p>
@@ -246,10 +282,13 @@ redirect_from:
     <a href="{{ base_path }}/files/papers/JITP_Trusting_dating%20algorithms_in_love_and_politics.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">Online dating offers users with different political affiliations opportunities to meet, triggering a growing need for political partner-vetting to maintain political homophily, as shared political affiliations hint that they have similar views on social affairs and similar moral foundations. Meanwhile, dating algorithms are likewise screening potential partners based on similarity matching. Therefore, there is a tension between users’ beliefs in the algorithm’s capacity to identify a compatible mate (defined as algorithmic belief) and their information-seeking behavior of partner-vetting. This study examines this association and its emotional outcomes among users with different mixed dating motivations. With the nationally representative data from the Pew Research Center, we clustered three motivational types of users: non-love seekers, long-term relationship (LTR) sticklers and balanced users. Non-love seekers’ algorithmic belief is reversely related to political partner-vetting and excitement. LTR sticklers’ algorithmic belief is positively associated with partner-vetting and worse emotional outcomes. This study highlights the negative effects of algorithmic beliefs in online dating, shedding light on how technology and politics work together to influence online intimacy.</p>
   </div>
+  </div>
 </div>
 
 <div class="reference-card">
-  <p class="paper-authors">2. Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N.</p>
+  <span class="paper-number">2.</span>
+  <div class="paper-content">
+  <p class="paper-authors">Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N.</p>
   <h2 class="paper-title">"Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity</h2>
   <p class="paper-meta"><i>Body Image, 55</i>, 101985 · 2025 · Q1 17/223</p>
   <p class="paper-translation" lang="zh-CN">美丽无界限：探索身材和内容焦点对女性身体积极性的影响</p>
@@ -261,10 +300,13 @@ redirect_from:
     <a href="{{ base_path }}/files/papers/BI_Beauty_knows_no%20bounds.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">Body positivity is a movement that promotes acceptance and appreciation of all body types. While previous research has explored the role of different model body types in promoting body positivity, there is no clear consensus on whether average-sized or plus-sized models would generate more positive outcomes. Moreover, most studies have focused on Western populations, leaving a gap in understanding within non-Western contexts. Average-sized models are often associated with assimilation effects, whereas plus-sized models are linked to downward comparison effects. Firstly, this study compared the influence of average-sized versus plus-sized models on body appreciation. Secondly, it also investigated how content focus—either aesthetic or functionality-based—influences body appreciation, and whether body size and content focus interact. Finally, the study explored the moderating role of self-esteem in shaping women's responses to model body size and content focus. Based on a 2 (average vs. plus-sized model) × 2 (aesthetic vs. functionality-focused content) experiment with 354 Chinese women, the findings showed that plus-sized models led to higher levels of body appreciation. Although content focus alone did not yield significant differences, an interaction effect emerged: plus-sized models paired with aesthetic-focused content led to greater body appreciation than the same content presented with average-sized models. Additionally, the study revealed a moderating effect of self-esteem on women's preferences for models and content. Women with high self-esteem preferred average-sized models and aesthetic-focused content, while those with low self-esteem favored plus-sized models and functionality-focused content. These findings have practical implications for promoting positive body image among women.</p>
   </div>
+  </div>
 </div>
 
 <div class="reference-card">
-  <p class="paper-authors">1. <strong>Chen, J.</strong>, Zeng, W., & Mou, Y.</p>
+  <span class="paper-number">1.</span>
+  <div class="paper-content">
+  <p class="paper-authors"><strong>Chen, J.</strong>, Zeng, W., & Mou, Y.</p>
   <h2 class="paper-title">Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC</h2>
   <p class="paper-meta"><i>Technology in Society, 83</i>, 103032 · 2025 · Q1 1/273</p>
   <p class="paper-translation" lang="zh-CN">民族主义遇上机器启发式：探索AI的“国籍”对AIGC感知可信度的影响</p>
@@ -275,6 +317,7 @@ redirect_from:
     <a href="https://doi.org/10.1016/j.techsoc.2025.103032" target="_blank" rel="noopener noreferrer" class="publisher-link">Publisher ↗</a>
     <a href="{{ base_path }}/files/papers/TIS_Nationalism_meets%20machine_heuristics.pdf" target="_blank" rel="noopener noreferrer" class="pdf-link">PDF ↗</a>
     <p class="abstract-panel">Against the backdrop of politicizing science and technology, it has nevertheless become a common practice to employ AI tools in political communication. This study delves into the tension between the supposedly high credibility of AI-generated content (AIGC) with its perceived objectivity and the potentially devastating impact of politicized tools. Specifically, we investigate the disparities in the perceived credibility of AIGC, stemming from various source types and nationalities. Using an online experiment conducted in China, we found that Chinese AI sources and human-AI hybrid sources with consistent Chinese national identity were perceived as more credible than their foreign (American) counterparts, whose effects were fully mediated by machine heuristics. In contrast, less credibility was directly attributed to human-AI hybrid sources with inconsistent human-AI nationalities (e.g., a Chinese journalist using American AI). Furthermore, although foreign sources were generally seen as less credible, the presence of AI in the source moderated this negative effect. These findings indicated users' perceptions of the political dimensions of AI technology.</p>
+  </div>
   </div>
 </div>
 
