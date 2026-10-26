@@ -56,6 +56,14 @@ redirect_from:
   outline: 2px solid #2563eb;
   outline-offset: 4px;
 }
+
+.reference-card .paper-authors {
+  font-weight: 400;
+}
+.reference-card .paper-author-self {
+  color: #2563eb;
+  font-weight: 400;
+}
 </style>
 
 <style>
@@ -160,8 +168,8 @@ redirect_from:
 # Peer-reviewed journal articles
 
 <div class="reference-card">
-  <h2 class="paper-title">Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication</h2>
-  <p class="paper-authors"><strong>Chen, J.</strong>, Zeng, W., Mou, Y.</p>
+  <h2 class="paper-title">6. Apolitical Referee or Geopolitical Actor? How AI’s National-Origin Labels Shape Credibility in Politicized Science Communication</h2>
+  <p class="paper-authors"><span class="paper-author-self">Chen, J.</span>, Zeng, W., Mou, Y.</p>
   <p class="paper-meta"><i>Public Understanding of Science</i> · 2026 · Q1 2/111</p>
   <p class="paper-translation" lang="zh-CN">非政治的中立裁判，还是地缘政治行动者？人工智能的国籍标签如何影响政治化科学传播的可信度</p>
   <div class="article-actions">
@@ -176,8 +184,8 @@ redirect_from:
 
 
 <div class="reference-card">
-  <h2 class="paper-title">AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation</h2>
-  <p class="paper-authors"><strong>Chen, J.</strong>, Dai, F., Mou, Y.</p>
+  <h2 class="paper-title">5. AI Claims Authority: How Source and Corrective Strategy Shape Perceived Credibility in Combating Misinformation</h2>
+  <p class="paper-authors"><span class="paper-author-self">Chen, J.</span>, Dai, F., Mou, Y.</p>
   <p class="paper-meta"><i>Journal of Broadcasting & Electronic Media</i> · 2026 · Q2 57/227</p>
   <p class="paper-translation" lang="zh-CN">AI宣称权威：信息来源和纠正策略如何影响打击不实资讯时的可信度</p>
   <div class="article-actions">
@@ -192,8 +200,8 @@ redirect_from:
 
 
 <div class="reference-card">
-  <h2 class="paper-title">"Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety</h2>
-  <p class="paper-authors">Zeng, W., & <strong>Chen, J.*</strong> <span class="corresponding-note">(corresponding author)</span></p>
+  <h2 class="paper-title">4. "Love Over Fear": How Nostalgic Songs and Relationship Types Buffer Death Anxiety</h2>
+  <p class="paper-authors">Zeng, W., & <span class="paper-author-self">Chen, J.*</span> <span class="corresponding-note">(corresponding author)</span></p>
   <p class="paper-meta"><i>Health Communication, 41</i>(6), 1063-1073 · 2026 · Q1 37/227</p>
   <p class="paper-translation" lang="zh-CN">真爱无惧：怀旧音乐何以在不同的关系类型中纾解死亡焦虑</p>
   <div class="article-actions">
@@ -207,8 +215,8 @@ redirect_from:
 </div>
 
 <div class="reference-card">
-  <h2 class="paper-title">Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience</h2>
-  <p class="paper-authors"><strong>Chen, J.</strong>, & Mou, Y.</p>
+  <h2 class="paper-title">3. Trusting Dating Algorithms in Love and Politics: Algorithmic Belief, Political Partner Vetting, Dating Motivation Types and Emotional Experience</h2>
+  <p class="paper-authors"><span class="paper-author-self">Chen, J.</span>, & Mou, Y.</p>
   <p class="paper-meta"><i>Journal of Information Technology & Politics</i>, 1-15 · 2025 · Q1 46/227</p>
   <p class="paper-translation" lang="zh-CN">在爱与政治间信任算法：算法信念、对伴侣的政治审查、约会动机类型与情感体验</p>
   <div class="article-actions">
@@ -222,8 +230,8 @@ redirect_from:
 </div>
 
 <div class="reference-card">
-  <h2 class="paper-title">"Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity</h2>
-  <p class="paper-authors">Zeng, W., <strong>Chen, J.</strong>, Zhou, Y.-X., & Wen, N.</p>
+  <h2 class="paper-title">2. "Beauty Knows No Bounds": Exploring the Influence of Body Size and Content Focus on Women's Body Positivity</h2>
+  <p class="paper-authors">Zeng, W., <span class="paper-author-self">Chen, J.</span>, Zhou, Y.-X., & Wen, N.</p>
   <p class="paper-meta"><i>Body Image, 55</i>, 101985 · 2025 · Q1 17/223</p>
   <p class="paper-translation" lang="zh-CN">美丽无界限：探索身材和内容焦点对女性身体积极性的影响</p>
   <div class="article-actions">
@@ -237,8 +245,8 @@ redirect_from:
 </div>
 
 <div class="reference-card">
-  <h2 class="paper-title">Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC</h2>
-  <p class="paper-authors"><strong>Chen, J.</strong>, Zeng, W., & Mou, Y.</p>
+  <h2 class="paper-title">1. Nationalism Meets Machine Heuristics: Investigating the Effect of AI’s “Nationality” on the Perceived Credibility of AIGC</h2>
+  <p class="paper-authors"><span class="paper-author-self">Chen, J.</span>, Zeng, W., & Mou, Y.</p>
   <p class="paper-meta"><i>Technology in Society, 83</i>, 103032 · 2025 · Q1 1/273</p>
   <p class="paper-translation" lang="zh-CN">民族主义遇上机器启发式：探索AI的“国籍”对AIGC感知可信度的影响</p>
   <div class="article-actions">
