@@ -178,7 +178,7 @@ redirect_from:
   margin: 0 0 0.45rem;
   color: #1f2937;
   font-size: 1rem;
-  font-weight: 400 !important;
+  font-weight: 700 !important;
   line-height: 1.5;
 }
 
