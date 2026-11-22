@@ -37,7 +37,8 @@
     }
 
     function sectionAtViewport() {
-      return window.scrollY + mastheadOffset() >= researchTarget.offsetTop
+      var scrollMargin = parseFloat(window.getComputedStyle(researchTarget).scrollMarginTop) || 0;
+      return researchTarget.getBoundingClientRect().top <= mastheadOffset() + scrollMargin
         ? "research"
         : "about";
     }
