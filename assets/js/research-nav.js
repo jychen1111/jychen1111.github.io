@@ -8,8 +8,8 @@
 
     if (!researchTarget || !researchLink || !visibleLinks) return;
 
-    var aboutLink = visibleLinks.querySelector('a[href="/"]');
-    var aboutItem = aboutLink && aboutLink.closest("li");
+    var aboutItem = visibleLinks.querySelector("li.is-active");
+    var aboutLink = aboutItem && aboutItem.querySelector("a");
     var researchItem = researchLink.closest("li");
     var reducedMotion = window.matchMedia("(prefers-reduced-motion: reduce)");
     var scrollIntent = false;
