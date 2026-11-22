@@ -13,6 +13,7 @@ main:
 
   - title: "Research"
     url: /#research
+    section: research
 
   #- title: "Other Work"
   #  url: /other/  
