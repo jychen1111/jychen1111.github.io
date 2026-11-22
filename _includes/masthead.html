@@ -17,7 +17,7 @@
                 {% assign is_active = true %}
               {% endif %}
             {% endif %}
-            <li class="masthead__menu-item{% if link.align == 'end' %} masthead__menu-item--end{% endif %}{% if is_active %} is-active{% endif %}"><a href="{{ domain }}{{ link.url }}"{% if link.section %} data-nav-section="{{ link.section }}"{% endif %}{% if is_active %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
+            <li class="masthead__menu-item persist{% if link.align == 'end' %} masthead__menu-item--end{% endif %}{% if is_active %} is-active{% endif %}"><a href="{{ domain }}{{ link.url }}"{% if link.section %} data-nav-section="{{ link.section }}"{% endif %}{% if is_active %} aria-current="page"{% endif %}>{{ link.title }}</a></li>
           {% endfor %}
           <li id="theme-toggle" class="masthead__menu-item persist tail">
             <a><i id="theme-icon" class="fa-solid fa-sun" aria-hidden="true" title="toggle theme"></i></a>
